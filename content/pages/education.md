@@ -51,7 +51,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-  - title: The University of Iowa
+  - title: The University of Washington
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
