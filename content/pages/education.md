@@ -66,7 +66,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ###### Minnesota State University Moorhead
+      ###### Minnesota State University Moorhead, 2009
 
       Thesis: Unveiling New Orientalism: An Exploration in Images
     actions: []
