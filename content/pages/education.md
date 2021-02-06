@@ -44,7 +44,7 @@ sections:
       ###### The University of Iowa, 2017
     actions: []
     type: section_content
-  - title: The University of Iowa
+  - title: The Graduate Certificate in College Teaching
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
