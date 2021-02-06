@@ -59,7 +59,7 @@ sections:
 
     actions: []
   - title: Dissertation
-    section_id: lorem-ipsum
+    section_id: dissertation
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
