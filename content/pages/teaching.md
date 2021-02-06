@@ -149,27 +149,30 @@ sections:
   - title: University Teaching Experience
     section_id: universityteachingexperience
     image_alt: lorem-ipsum
-    content: |+
+    content: >
       ##### The University of Iowa, Instructor
+
 
       Harry Potter: Mystery and Magic of Life (RELS:1997), Fall 2020
 
+
       Women and Religion in America Today(RELS: 2986), Spring 2020
+
 
       Digital Media and Religion(RELS: 2930/COMM:2079), Spring 2018
 
 
-
       ##### The University of Iowa, Teaching Assistant
 
-      Modern Religion and Culture(RELS:1250/HIST:1050), Spring 2017, Spring 2021
 
-      Medieval Religion and Culture(RELS:1225/HIST:1025), Fall 2018
-
-      Harry Potter:Mystery & Magic of Life(RELS:1997), Fall 2017
+      *   Modern Religion and Culture(RELS:1250/HIST:1050), Spring 2017, Spring
+      2021
 
 
+      *   Medieval Religion and Culture(RELS:1225/HIST:1025), Fall 2018
 
+
+      *   Harry Potter:Mystery & Magic of Life(RELS:1997), Fall 2017
     actions: []
     type: section_content
 layout: advanced
