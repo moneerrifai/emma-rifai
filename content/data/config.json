@@ -20,7 +20,7 @@
             },
             {
                 "label": "Education",
-                "url": "/educat",
+                "url": "/education",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
