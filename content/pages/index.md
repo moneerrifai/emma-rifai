@@ -57,10 +57,7 @@ sections:
 
       *   Gender, Religion, and Culture
 
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
 layout: advanced
 excerpt: welcome!
 ---
