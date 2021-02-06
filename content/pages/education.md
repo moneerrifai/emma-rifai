@@ -4,7 +4,7 @@ hide_title: false
 excerpt: ''
 sections:
   - title: The University of Iowa
-    section_id: lorem-ipsum
+    section_id: uiowa
     content: >-
       ## Lorem ipsum
 
