@@ -19,11 +19,6 @@
                 "icon_class": ""
             },
             {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Education",
                 "url": "lorem-ipsum",
                 "style": "link",
