@@ -5,17 +5,18 @@ excerpt: ''
 sections:
   - title: The University of Iowa
     section_id: uiowa
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Ph.D., Religious Studies
 
+      ##### Title:
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *Embodying the Secular: Power, Bodies, and American Secularism*
 
+      ##### Advisors:
 
-      - Lorem ipsum
+      *   Directors: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
 
-      - dolor sit amet
+      *   Committee Members: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
     actions: []
     type: section_hero
 layout: advanced
