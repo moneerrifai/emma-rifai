@@ -90,7 +90,14 @@ sections:
     content: >
       You can download a PDF copy of my CV by clicking on the download button
       below.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 layout: advanced
 excerpt: welcome!
