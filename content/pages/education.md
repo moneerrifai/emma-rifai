@@ -1,6 +1,6 @@
 ---
 title: Education
-hide_title: false
+hide_title: true
 excerpt: ' '
 sections:
   - title: ''
