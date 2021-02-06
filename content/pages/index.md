@@ -25,7 +25,7 @@ sections:
         no_follow: false
         type: action
       - label: Download CV
-        url: lorem-ipsum
+        url: '#cv'
         style: button
         icon_class: lorem-ipsum
         new_window: false
