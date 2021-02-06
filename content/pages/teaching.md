@@ -6,7 +6,14 @@ sections:
   - title: ''
     section_id: lorem-ipsum
     content: ''
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
 layout: advanced
 ---
