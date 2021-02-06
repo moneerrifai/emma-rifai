@@ -13,7 +13,7 @@ sections:
     section_id: uiowa1
     image_alt: lorem-ipsum
     content: >
-      ###### Ph.D., Religious Studies
+      ###### The University of Iowa, 2021
 
 
       Title: Embodying the Secular: Power, Bodies, and American Secularism
