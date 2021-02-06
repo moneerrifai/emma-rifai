@@ -30,7 +30,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ###### M.A., Religious Studies
+      ###### The University of Iowa, 2018
 
 
       Comprehensive Exam Areas: American Religions; Critical Theory and
