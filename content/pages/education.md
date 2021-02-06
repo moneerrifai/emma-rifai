@@ -6,7 +6,7 @@ sections:
   - title: The University of Iowa
     section_id: uiowa
     content: |
-      ## Ph.D., Religious Studies
+      #### Ph.D., Religious Studies
 
       ##### Title:
 
