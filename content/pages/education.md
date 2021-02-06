@@ -5,7 +5,7 @@ excerpt: ' '
 sections:
   - title: ''
     section_id: ''
-    image_alt: lorem-ipsum
+    image_alt: ''
     content: >-
       ## Lorem ipsum
 
