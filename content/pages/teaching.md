@@ -6,9 +6,7 @@ sections:
   - title: ''
     section_id: lorem-ipsum
     content: |
-      ###### ****[**Teaching**](#teaching)
-
-      ###### ****[**Teaching resources**](/teachingresources)****
+      ######
     actions:
       - label: Teaching Statement
         url: lorem-ipsum
