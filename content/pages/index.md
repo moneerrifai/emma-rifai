@@ -84,7 +84,7 @@ sections:
       construction of American culture today.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Download CV
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
