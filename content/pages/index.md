@@ -85,7 +85,7 @@ sections:
     actions: []
     type: section_content
   - title: Download CV
-    section_id: lorem-ipsum
+    section_id: cv
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
