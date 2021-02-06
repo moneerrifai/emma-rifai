@@ -60,7 +60,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
+  - title: Teaching Statement
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
