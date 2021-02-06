@@ -75,7 +75,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ###### Concordia College
+      ###### Concordia College, 2008
 
       Thesis: The Body’s Iron Cage and Its Relationship to the Protestant Ethic
     actions: []
