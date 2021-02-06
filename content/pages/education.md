@@ -83,17 +83,10 @@ sections:
   - title: Concordia College
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ##### B.M., Major in Instrumental Music; Minor in Religion
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Thesis: The Body’s Iron Cage and Its Relationship to the Protestant Ethic
     actions: []
     type: section_content
 layout: advanced
