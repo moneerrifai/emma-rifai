@@ -52,7 +52,7 @@ sections:
       Studies&#xA;
     actions: []
     type: section_content
-  - title: The University of Washington
+  - title: The University of Iowa
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
