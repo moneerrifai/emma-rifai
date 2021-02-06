@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: hero
     type: section_hero
-    title: ''
+    title: test
     content: >
       Welcome to my site! This site illustrates my teaching experiences,
       research activities, and service background. To download my CV, please
