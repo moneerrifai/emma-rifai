@@ -19,7 +19,7 @@ sections:
       *   Committee Members: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
     actions: []
     type: section_hero
-  - title: T
+  - title: ''
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
