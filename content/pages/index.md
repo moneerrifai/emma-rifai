@@ -61,17 +61,25 @@ sections:
   - title: Dissertation
     section_id: dissertation
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      My dissertation, entitled “Embodying the Secular: Power, Bodies, and
+      American Secularism,” argues that American secularism is best understood
+      as fundamentally embodied and that this embodiment is made plain in
+      contemporary techniques of body management. I find that the body is a
+      foundational site where we can see the co-constitutive nature of the
+      “secular” and the “religious” emerge as well as the scope and contours of
+      their entangled ontologies. This entanglement is particularly clear when
+      we consider how American secularism is imbued with the same Protestant
+      values, including commitments to individualism, self-control, and
+      optimization, that orient American cultural life more broadly. Through
+      case studies on direct-to-consumer genetic testing, biohacking, and the
+      pro-ana movement, I explore the tensions between the discourses and
+      practices that seek to sustain American secularism and the bodies that
+      confound these attempts by expanding and contracting the field of
+      possibility from which the contemporary American subject emerges.
+      Intervening in religious studies, cultural studies, and gender studies,
+      this project demonstrates just how central embodiment is to the
+      construction of American culture today.
     actions: []
     type: section_content
 layout: advanced
