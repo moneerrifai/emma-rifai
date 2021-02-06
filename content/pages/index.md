@@ -27,7 +27,7 @@ sections:
   - section_id: about
     type: section_content
     title: About Me
-    content: >
+    content: >+
       I am a PhD candidate in the Department of Religious Studies at The
       University of Iowa. My research and teaching interests include:
 
@@ -42,6 +42,7 @@ sections:
 
 
       *   Gender, Religion, and Culture
+
     actions:
       - label: Contact Me
         url: /contact
