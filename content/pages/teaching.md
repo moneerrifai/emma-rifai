@@ -146,7 +146,7 @@ sections:
       their learning communities, both on campus and more broadly.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: University Teaching Experience
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
