@@ -33,7 +33,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ##### M.A., Religious Studies
+      ###### M.A., Religious Studies
 
 
       Comprehensive Exam Areas: American Religions; Critical Theory and
