@@ -37,7 +37,7 @@ sections:
       Religion; and Religion, Food, and the Body
     actions: []
     type: section_content
-  - title: The University of Iowa
+  - title: 'The Graduate Certificate in Gender, Women’s, and Sexuality Studies'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
