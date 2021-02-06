@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: ''
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Greetings and welcome to my page! I am a PhD candidate in the Department
+      of Religious Studies at The University of Iowa. My research and teaching
+      interests include:
+
   - section_id: about
     type: section_content
     title: About
