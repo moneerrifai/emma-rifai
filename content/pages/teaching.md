@@ -5,8 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: ''
     section_id: lorem-ipsum
-    content: |
-      ######
+    content: ''
     actions:
       - label: Teaching Statement
         url: lorem-ipsum
