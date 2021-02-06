@@ -95,7 +95,7 @@ sections:
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_content
