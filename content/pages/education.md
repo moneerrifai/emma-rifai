@@ -3,7 +3,7 @@ title: Education
 hide_title: false
 excerpt: ''
 sections:
-  - title: lorem-ipsum
+  - title: The University of Iowa
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
