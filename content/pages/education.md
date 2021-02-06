@@ -71,7 +71,7 @@ sections:
       Thesis: Unveiling New Orientalism: An Exploration in Images
     actions: []
     type: section_content
-  - title: Concordia College
+  - title: 'B.M., Major in Instrumental Music; Minor in Religion'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
