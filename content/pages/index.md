@@ -71,10 +71,12 @@ sections:
       their entangled ontologies. This entanglement is particularly clear when
       we consider how American secularism is imbued with the same Protestant
       values, including commitments to individualism, self-control, and
-      optimization, that orient American cultural life more broadly. Through
-      case studies on direct-to-consumer genetic testing, biohacking, and the
-      pro-ana movement, I explore the tensions between the discourses and
-      practices that seek to sustain American secularism and the bodies that
+      optimization, that orient American cultural life more broadly. 
+
+
+      Through case studies on direct-to-consumer genetic testing, biohacking,
+      and the pro-ana movement, I explore the tensions between the discourses
+      and practices that seek to sustain American secularism and the bodies that
       confound these attempts by expanding and contracting the field of
       possibility from which the contemporary American subject emerges.
       Intervening in religious studies, cultural studies, and gender studies,
