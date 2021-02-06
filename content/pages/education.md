@@ -9,7 +9,7 @@ sections:
     content: ''
     actions: []
     type: section_content
-  - title: The University of Iowa
+  - title: 'Ph.D., Religious Studies'
     section_id: uiowa1
     image_alt: lorem-ipsum
     content: >
