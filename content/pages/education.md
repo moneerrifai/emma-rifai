@@ -1,7 +1,7 @@
 ---
 title: Education
 hide_title: false
-excerpt: lorem-ipsum
+excerpt: ''
 sections: []
 layout: advanced
 ---
