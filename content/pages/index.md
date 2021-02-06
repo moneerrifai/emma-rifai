@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: My Dissertation
+      - label: Dissertation
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
