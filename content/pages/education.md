@@ -1,7 +1,7 @@
 ---
 title: Education
 subtitle: ''
-excerpt: lorem-ipsum
+excerpt: ''
 img_alt: lorem-ipsum
 layout: page
 ---
