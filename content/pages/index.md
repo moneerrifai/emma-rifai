@@ -10,7 +10,7 @@ sections:
       research activities, and service background. To download my CV, please
       click here.
     actions:
-      - label: lorem-ipsum
+      - label: D
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
