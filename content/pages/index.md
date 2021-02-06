@@ -1,5 +1,5 @@
 ---
-title: 'Hello, I''m Emma'
+title: Greetings!
 hide_title: false
 sections:
   - section_id: hero
