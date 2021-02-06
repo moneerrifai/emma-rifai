@@ -9,6 +9,14 @@ sections:
       Welcome to my site! This site illustrates my teaching experiences,
       research activities, and service background. To download my CV, please
       click here.
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: about
     type: section_content
     title: About
