@@ -48,7 +48,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ###### The Graduate Certificate in College Teaching&#xA;
+      ###### The University of Iowa, 2017
     actions: []
     type: section_content
   - title: The University of Washington
