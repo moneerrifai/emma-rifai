@@ -8,7 +8,7 @@ sections:
     content: ''
     actions:
       - label: Teaching Statement
-        url: lorem-ipsum
+        url: '#teaching'
         style: button
         icon_class: lorem-ipsum
         new_window: false
