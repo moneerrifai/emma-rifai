@@ -55,7 +55,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ###### The University of Washington
+      ###### The University of Washington, 2011
 
 
       Thesis: Fashioning Identities: New Relationships with Fashion and Modesty
