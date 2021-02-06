@@ -1,7 +1,7 @@
 ---
 title: Education
 hide_title: false
-excerpt: ''
+excerpt: ggg
 sections:
   - title: The University of Iowa
     section_id: uiowa
