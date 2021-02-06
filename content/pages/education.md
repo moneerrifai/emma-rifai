@@ -71,7 +71,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ##### B.A., Major in Sociology of Religion
+      ###### B.A., Major in Sociology of Religion
 
       Thesis: Unveiling New Orientalism: An Exploration in Images
     actions: []
