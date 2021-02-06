@@ -5,9 +5,14 @@ excerpt: ''
 img_alt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+## THE UNIVERSITY OF IOWA, IOWA CITY, IOWA
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Ph.D., Religious Studies
 
-- Lorem ipsum
-- dolor sit amet
+Title: Embodying the Secular: Power, Bodies, and American Secularism
+
+Advisors:
+
+*   Directors: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
+
+*   Committee Members: Natalie Fixmer-Oraiz, Naomi Greyser, and Raymond Mentzer
