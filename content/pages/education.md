@@ -75,7 +75,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ###### B.M., Major in Instrumental Music; Minor in Religion
+      ###### Concordia College
 
       Thesis: The Body’s Iron Cage and Its Relationship to the Protestant Ethic
     actions: []
