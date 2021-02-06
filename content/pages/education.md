@@ -36,17 +36,12 @@ sections:
   - title: The University of Iowa
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ##### M.A., Religious Studies
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Comprehensive Exam Areas: American Religions; Critical Theory and
+      Religion; and Religion, Food, and the Body
     actions: []
     type: section_content
   - title: The University of Iowa
