@@ -87,17 +87,9 @@ sections:
   - title: Download CV
     section_id: cv
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      You can download a PDF copy of my CV by clicking on the download button
+      below.
     actions: []
     type: section_content
 layout: advanced
