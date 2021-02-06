@@ -52,7 +52,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ##### The Graduate Certificate in College Teaching&#xA;
+      ###### The Graduate Certificate in College Teaching&#xA;
     actions: []
     type: section_content
   - title: The University of Washington
