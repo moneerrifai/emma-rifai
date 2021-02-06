@@ -58,7 +58,7 @@ sections:
       *   Gender, Religion, and Culture
 
     actions: []
-  - title: Dorem-ipsum
+  - title: Dissertation
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
