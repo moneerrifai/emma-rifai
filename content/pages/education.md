@@ -16,21 +16,17 @@ sections:
       ##### Ph.D., Religious Studies
 
 
-      ###### Title
+      *Title: Embodying the Secular: Power, Bodies, and American Secularism*
 
 
-      *Embodying the Secular: Power, Bodies, and American Secularism*
+      Advisors:
 
 
-      ###### Advisors
+      *   Directors: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
 
 
-      *   Directors: Embodying the Secular: Power, Bodies, and American
-      Secularism
-
-
-      *   Committee Members: Embodying the Secular: Power, Bodies, and American
-      Secularism
+      *   Committee Members: Natalie Fixmer-Oraiz, Naomi Greyser, and Raymond
+      Mentzer
     actions: []
     type: section_content
   - title: The University of Iowa
