@@ -22,5 +22,5 @@ sections:
         url: /contact
         style: button
 layout: advanced
-excerpt: dddjhjkhjhjhjh
+excerpt: welcome!
 ---
