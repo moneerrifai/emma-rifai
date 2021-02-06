@@ -5,11 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: ''
-    content: >+
-      Greetings and welcome to my page! I am a PhD candidate in the Department
-      of Religious Studies at The University of Iowa. My research and teaching
-      interests include:
-
+    content: >
+      Welcome to my site! This site illustrates my teaching experiences,
+      research activities, and service background. To download my CV, please
+      click here.
   - section_id: about
     type: section_content
     title: About
