@@ -91,7 +91,7 @@ sections:
       You can download a PDF copy of my CV by clicking on the download button
       below.
     actions:
-      - label: lorem-ipsum
+      - label: Download
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
