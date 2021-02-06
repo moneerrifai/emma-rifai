@@ -27,11 +27,21 @@ sections:
   - section_id: about
     type: section_content
     title: About Me
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I am a PhD candidate in the Department of Religious Studies at The
+      University of Iowa. My research and teaching interests include:
+
+
+      *   Protestantism and Secularism in the United States
+
+
+      *   Critical Theory and Religion
+
+
+      *   Religion, Food, and the Body
+
+
+      *   Gender, Religion, and Culture
     actions:
       - label: Contact Me
         url: /contact
