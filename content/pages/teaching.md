@@ -7,7 +7,7 @@ sections:
     section_id: lorem-ipsum
     content: ''
     actions:
-      - label: lorem-ipsum
+      - label: Teaching Statement
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
