@@ -63,9 +63,12 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ##### M.A., International Studies: Middle East Studies&#xA;Thesis:
-      Fashioning Identities: New Relationships with Fashion and Modesty in
-      Turkey&#xA;
+      ##### M.A., International Studies: Middle East Studies
+
+
+
+      Thesis: Fashioning Identities: New Relationships with Fashion and Modesty
+      in Turkey
     actions: []
     type: section_content
   - title: Minnesota State University Moorhead
