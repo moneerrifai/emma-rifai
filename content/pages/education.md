@@ -13,7 +13,7 @@ sections:
     section_id: uiowa1
     image_alt: lorem-ipsum
     content: >
-      ##### Ph.D., Religious Studies
+      ###### Ph.D., Religious Studies
 
 
       *Title: Embodying the Secular: Power, Bodies, and American Secularism*
