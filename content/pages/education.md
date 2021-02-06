@@ -47,17 +47,9 @@ sections:
   - title: The University of Iowa
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ##### The Graduate Certificate in Gender, Women’s, and Sexuality
+      Studies&#xA;
     actions: []
     type: section_content
   - title: The University of Washington
