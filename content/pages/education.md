@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Education
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
