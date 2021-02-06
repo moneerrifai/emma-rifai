@@ -1,6 +1,6 @@
 ---
 title: Honors & Awards
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 layout: page
