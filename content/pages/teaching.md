@@ -162,9 +162,8 @@ sections:
       Digital Media and Religion(RELS: 2930/COMM:2079), Spring 2018
 
 
-      The University of Iowa, Teaching Assistant
-
-      Modern Religion and Culture(RELS:1250/HIST:1050), Spring 2017, Spring 2021
+      ###### The University of Iowa, Teaching Assistant&#xA;Modern Religion and
+      Culture(RELS:1250/HIST:1050), Spring 2017, Spring 2021
 
 
       Medieval Religion and Culture(RELS:1225/HIST:1025), Fall 2018Harry
