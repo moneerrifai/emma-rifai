@@ -100,5 +100,5 @@ sections:
         type: action
     type: section_content
 layout: advanced
-excerpt: welcome!
+excerpt: ''
 ---
