@@ -19,13 +19,10 @@ sections:
       Title: Embodying the Secular: Power, Bodies, and American Secularism
 
 
-      Advisors:
+      Directors: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
 
 
-      *   Directors: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
-
-
-      *   Committee Members: Natalie Fixmer-Oraiz, Naomi Greyser, and Raymond
+      Committee Members: Natalie Fixmer-Oraiz, Naomi Greyser, and Raymond
       Mentzer
     actions: []
     type: section_content
