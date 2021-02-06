@@ -44,7 +44,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ##### The Graduate Certificate in Gender, Women’s, and Sexuality
+      ###### The Graduate Certificate in Gender, Women’s, and Sexuality
       Studies&#xA;
     actions: []
     type: section_content
