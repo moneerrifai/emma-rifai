@@ -11,7 +11,7 @@ sections:
       click here.
     actions:
       - label: About Me
-        url: lorem-ipsum
+        url: '#about'
         style: button
         icon_class: lorem-ipsum
         new_window: false
