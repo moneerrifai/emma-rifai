@@ -62,7 +62,7 @@ sections:
       in Turkey
     actions: []
     type: section_content
-  - title: Minnesota State University Moorhead
+  - title: 'B.A., Major in Sociology of Religion'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
