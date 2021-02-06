@@ -17,10 +17,6 @@ layout: page
 
 <!---->
 
-*   2016, 2018: Graduate Student Senate Travel Grant, the University of Iowa
-
-
-
 *   2010-2011: Foreign Language and Area Studies (Flas) Fellowship, University of Washington
 
 *   2009-2010: Schwartz Fellowship, University of Washington
