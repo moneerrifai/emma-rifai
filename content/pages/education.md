@@ -12,17 +12,25 @@ sections:
   - title: The University of Iowa
     section_id: uiowa1
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Ph.D., Religious Studies
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Title
 
 
-      - Lorem ipsum
+      *Embodying the Secular: Power, Bodies, and American Secularism*
 
-      - dolor sit amet
+
+      Advisors
+
+
+      *   Directors: Embodying the Secular: Power, Bodies, and American
+      Secularism
+
+
+      *   Committee Members: Embodying the Secular: Power, Bodies, and American
+      Secularism
     actions: []
     type: section_content
   - title: The University of Iowa
