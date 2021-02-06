@@ -17,7 +17,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: c
+      - label: Contact Me
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
