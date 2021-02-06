@@ -5,9 +5,6 @@ excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+###### 2019: PRESIDENT AND MRS. EUGENE GILMORE SCHOLARSHIP, THE UNIVERSITY OF IOWA
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+###### 2019: COLLEGE OF LIBERAL ARTS AND SCIENCES DISSERTATION WRITING FELLOWSHIP, THE UNIVERSITY OF IOWA&#xA;&#xA;2019: GRADUATE COLLEGE POST-COMPREHENSIVE RESEARCH FELLOWSHIP, THE UNIVERSITY OF IOWA&#xA;
