@@ -10,7 +10,7 @@ sections:
     actions: []
     type: section_content
   - title: The University of Iowa
-    section_id: lorem-ipsum
+    section_id: uiowa1
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
