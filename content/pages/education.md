@@ -74,17 +74,10 @@ sections:
   - title: Minnesota State University Moorhead
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ##### B.A., Major in Sociology of Religion
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Thesis: Unveiling New Orientalism: An Exploration in Images
     actions: []
     type: section_content
   - title: Concordia College
