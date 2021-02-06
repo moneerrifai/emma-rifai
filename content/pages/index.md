@@ -88,7 +88,7 @@ sections:
     section_id: cv
     image_alt: lorem-ipsum
     content: >
-      You can download a PDF copy of my CV by clicking on the download button
+      You can download a PDF copy of my CV by clicking on the download link
       below.
     actions:
       - label: Download
