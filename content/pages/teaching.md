@@ -149,17 +149,23 @@ sections:
   - title: University Teaching Experience
     section_id: universityteachingexperience
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ###### Instructor
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Harry Potter: Mystery and Magic of Life (RELS:1997), Fall 2020
 
 
-      - Lorem ipsum
+      *   Women and Religion in America Today (RELS: 2986), Spring 2020
 
-      - dolor sit amet
+
+
+
+      ###### Teaching Assistant
+
+
+      *   Modern Religion and Culture (RELS:1250/HIST:1050), Spring 2017, Spring
+      2021
     actions: []
     type: section_content
 layout: advanced
