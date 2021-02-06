@@ -16,7 +16,7 @@ sections:
         type: action
       - label: University Teaching Experience
         url: lorem-ipsum
-        style: link
+        style: button
         icon_class: lorem-ipsumff
         new_window: false
         no_follow: false
