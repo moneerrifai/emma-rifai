@@ -15,7 +15,7 @@ sections:
         no_follow: false
         type: action
       - label: University Teaching Experience
-        url: lorem-ipsum
+        url: '#universityteachingexperience'
         style: button
         icon_class: lorem-ipsumff
         new_window: false
