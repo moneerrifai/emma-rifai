@@ -51,7 +51,7 @@ sections:
       ###### The University of Iowa, 2017
     actions: []
     type: section_content
-  - title: The University of Washington
+  - title: 'M.A., International Studies: Middle East Studies'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
