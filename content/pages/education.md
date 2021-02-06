@@ -13,10 +13,10 @@ sections:
     section_id: uiowa1
     image_alt: lorem-ipsum
     content: >
-      ##### The University of Iowa, 2021
+      ###### The University of Iowa, 2021
 
 
-      Title: Embodying the Secular: Power, Bodies, and American Secularism
+      Title: *Embodying the Secular: Power, Bodies, and American Secularism*
 
 
       Directors: Kristy Nabhan-Warren and Jenna Supp-Montgomerie
