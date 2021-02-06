@@ -32,7 +32,7 @@ sections:
         no_follow: false
         type: action
       - label: Contact Me
-        url: lorem-ipsum
+        url: /contact
         style: button
         icon_class: lorem-ipsum
         new_window: false
