@@ -94,7 +94,7 @@
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "icon",
-                "icon_class": "fa-user-graduate",
+                "icon_class": "fa-g",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
