@@ -16,7 +16,7 @@ sections:
       ###### Ph.D., Religious Studies
 
 
-      *Title: Embodying the Secular: Power, Bodies, and American Secularism*
+      Title: Embodying the Secular: Power, Bodies, and American Secularism
 
 
       Advisors:
