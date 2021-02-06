@@ -6,17 +6,7 @@ sections:
   - title: ''
     section_id: ''
     image_alt: ''
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: ''
     actions: []
     type: section_content
   - title: The University of Iowa
