@@ -5,7 +5,7 @@ excerpt: ''
 img_alt: lorem-ipsum
 layout: page
 ---
-## THE UNIVERSITY OF IOWA, IOWA CITY, IOWA
+## The University of Iowa, Iowa City, Iowa
 
 ### Ph.D., Religious Studies
 
