@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: Greetings
     content: >
-      Welcome to my site! This site illustrates my teaching experiences,
-      research activities, and service background. To download my CV, please
-      click here.
+      This site illustrates my teaching experiences, research activities, and
+      service commitments. 
     actions:
       - label: Download CV
         url: '#cv'
