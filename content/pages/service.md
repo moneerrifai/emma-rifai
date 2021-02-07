@@ -256,7 +256,7 @@ sections:
       religious through daily actions and behaviors.
     actions: []
     type: section_content
-  - title: Research Assistantships
+  - title: Professional and Academic Development
     section_id: researchassistantships
     image_alt: lorem-ipsum
     content: |
