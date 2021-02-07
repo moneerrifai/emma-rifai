@@ -61,7 +61,7 @@ sections:
       Donovan O. Schaefer.Material Religion12:4 (December 2016):515-516.
     actions: []
     type: section_content
-  - title: Presentations and lectures
+  - title: Service to Profession
     section_id: presentationsandlectures
     image_alt: lorem-ipsum
     content: >
