@@ -1,7 +1,7 @@
 ---
 title: Research
 hide_title: false
-excerpt: lorem-ipsum
+excerpt: ']'
 sections:
   - title: ''
     section_id: ''
