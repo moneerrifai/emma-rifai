@@ -212,19 +212,21 @@ sections:
   - title: Teaching Evaluations
     section_id: teachingevaluations
     image_alt: lorem-ipsum
-    content: |+
-      Teaching evaluation by Dr. Leslie Schwalm
+    content: >
+      [Teaching evaluation by Dr. Leslie
+      Schwalm](https://s3.amazonaws.com/www.emmarifai.com/evals/leslie_schwalm_eval.pdf)
+
 
       Teaching evaluation by Dr. Jenna Supp-Montgomerie
 
+
       Teaching evaluation by Dr. Kristy Nabhan-Warren
+
 
       Sample Student Evaluations
 
+
       Workshop Evaluation by Sarah Goettsch
-
-
-
     actions: []
     type: section_content
   - title: lorem-ipsum
