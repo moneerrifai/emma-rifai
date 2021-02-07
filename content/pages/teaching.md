@@ -171,15 +171,15 @@ sections:
     section_id: teachingevaluations
     image_alt: lorem-ipsum
     content: >
-      [Teaching evaluation by Dr. Leslie
+      [Teaching Evaluation by Dr. Leslie
       Schwalm](https://s3.amazonaws.com/www.emmarifai.com/evals/leslie_schwalm_eval.pdf)
 
 
-      [Teaching evaluation by Dr. Jenna
+      [Teaching Evaluation by Dr. Jenna
       Supp-Montgomerie](https://s3.amazonaws.com/www.emmarifai.com/evals/jenna_supp_montgomerie_eval.pdf)
 
 
-      [Teaching evaluation by Dr. Kristy
+      [Teaching Evaluation by Dr. Kristy
       Nabhan-Warren](https://s3.amazonaws.com/www.emmarifai.com/evals/kristy_nabhan_warren_eval.pdf)
 
 
