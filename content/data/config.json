@@ -56,7 +56,7 @@
             },
             {
                 "label": "Service & Development",
-                "url": "lorem-ipsum",
+                "url": "/service",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
