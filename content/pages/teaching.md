@@ -223,7 +223,7 @@ sections:
       ](https://s3.amazonaws.com/www.emmarifai.com/resources/veiling_in_islam.pdf)
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Sample Syllabi
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
