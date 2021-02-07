@@ -6,19 +6,15 @@ sections:
   - title: ''
     section_id: ''
     content: |+
-      [Teaching Statement](#teachingstatement)
+      Publications
 
-      [University Teaching Experience](#universityteachingexperience)
+      Presentations
 
-      [Teaching Evaluations](#teachingevaluations)
+      Research Statements
 
-      [Teaching Resources](#teachingresources)
+      Research Assistantships
 
-      [Online Teaching Resources](#onlineteachingresources)
-
-      [Sample Syllabi](#samplesyllabi)
-
-      [Diversity Statement](#diversitystatements)
+      Dissertation Abstract
 
     actions: []
     type: section_hero
