@@ -226,17 +226,17 @@ sections:
   - title: Sample Syllabi
     section_id: samplesyllabi
     image_alt: lorem-ipsum
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      [Lorem](google.com) ipsum dolor sit amet, **consectetur adipiscing elit**,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions:
       - label: lorem-ipsum/n
         url: lorem-ipsum
