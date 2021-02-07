@@ -3,7 +3,7 @@ title: Research
 hide_title: false
 excerpt: ''
 sections:
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     content: |
       [Publications](#publications)
