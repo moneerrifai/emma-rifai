@@ -231,7 +231,9 @@ sections:
 
 
       [Lorem](google.com) ipsum dolor sit amet, **consectetur adipiscing elit**,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      sed do eiusmod tempor incididunt ut labore et dolore magna [aliqua](<\<a
+      href="https://www.w3schools.com" target="\_blank"\>Visit
+      W3Schools\</a\>>).
 
 
       *   Lorem ipsum
