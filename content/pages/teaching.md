@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Teaching Statement
         url: '#teachingstatement'
-        style: button
+        style: link
         icon_class: lorem-ipsum
         new_window: false
         no_follow: false
