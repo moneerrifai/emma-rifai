@@ -6,9 +6,9 @@ sections:
   - title: ''
     section_id: ''
     content: |
-      [Publications](#publications)
+      [[Publications](presentationsandlectures)](#publications)
 
-      [Presentations](#presentations)
+      [Presentations and Lectures](presentationsandlectures)
 
       [Research Statements](#researchstatements)
 
