@@ -28,26 +28,6 @@ sections:
         new_window: true
         no_follow: false
         type: action
-  - section_id: about
-    type: section_content
-    title: About Me
-    content: >+
-      I am a PhD candidate in the Department of Religious Studies at The
-      University of Iowa. My research and teaching interests include:
-
-
-      *   Protestantism and Secularism in the United States
-
-
-      *   Critical Theory and Religion
-
-
-      *   Religion, Food, and the Body
-
-
-      *   Gender, Religion, and Culture
-
-    actions: []
   - title: Dissertation
     section_id: dissertation
     image_alt: lorem-ipsum
