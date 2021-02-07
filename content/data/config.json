@@ -47,7 +47,7 @@
             },
             {
                 "label": "Research",
-                "url": "lorem-ipsum",
+                "url": "/research",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
