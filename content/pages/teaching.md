@@ -233,14 +233,7 @@ sections:
       [Women and Religion in America Today
 
       ](https://s3.amazonaws.com/www.emmarifai.com/resources/women_and_religion_in_america_today.pdf)
-    actions:
-      - label: lorem-ipsum/n
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_content
   - title: Diversity Statement
     section_id: diversitystatement
