@@ -79,13 +79,6 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/emmarifai/",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "https://scholar.google.com/citations?user=zL3di_0AAAAJ&hl=en&oi=ao",
                 "style": "icon",
