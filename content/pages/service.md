@@ -5,7 +5,7 @@ excerpt: ''
 sections:
   - title: ''
     section_id: lorem-ipsum
-    content: >
+    content: >+
       [Conferences Organized](#conferencesorganized)
 
 
@@ -17,6 +17,13 @@ sections:
 
       [Professional and Academic
       Development](#professionalandacademicdevelopment)
+
+
+      [Affiliations](#affiliations)
+
+
+      [Languages](#languages)
+
     actions: []
     type: section_hero
   - title: Conferences Organized
