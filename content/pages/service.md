@@ -132,7 +132,7 @@ sections:
       UniversityMoorhead, Moorhead, Minnesota
     actions: []
     type: section_content
-  - title: Research Statement
+  - title: Departmental and University Service
     section_id: researchstatement
     image_alt: lorem-ipsum
     content: >
