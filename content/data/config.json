@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "overflow",
-    "palette": "violet",
+    "palette": "blue",
     "header": {
         "title": "Emma Rifai",
         "tagline": "Header Tagline",
