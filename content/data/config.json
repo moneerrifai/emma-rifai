@@ -88,7 +88,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "google.com",
-                "style": "button",
+                "style": "icon",
                 "icon_class": "fa-user-graduate",
                 "new_window": false,
                 "no_follow": false,
