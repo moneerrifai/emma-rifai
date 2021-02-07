@@ -208,7 +208,7 @@ sections:
     actions: []
     type: section_content
   - title: Dissertation Abbstrac
-    section_id: onlineteachingresources
+    section_id: dissertationabstract
     image_alt: lorem-ipsum
     content: >
       [Fashioning Identities -
