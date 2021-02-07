@@ -9,7 +9,7 @@
         "tagline": "Header Tagline",
         "profile_img": "images/emma-profile.jpeg",
         "profile_img_alt": "Author avatar",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
