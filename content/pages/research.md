@@ -21,11 +21,12 @@ sections:
   - title: Publications
     section_id: publications
     image_alt: lorem-ipsum
-    content: |+
-      Peer-Reviewed Articles
+    content: |
+      Refereed Journal Articles 
 
       Textbook Entries
 
+      Book Reviews
     actions: []
     type: section_content
   - title: Presentations
