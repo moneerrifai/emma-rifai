@@ -194,13 +194,9 @@ sections:
       insignificant that Protestant values and American secularism are
       co-constituted at the site of the gendered body through popular body
       management practices. Indeed, the continued daily performances of American
-      secularism and hegemonic Protestantism by gendered bodies through
-
-
-      popular body management practices reveals just how central embodiment is
-      to the construction of American culture today.
-
-
+      secularism and hegemonic Protestantism by gendered bodies through popular
+      body management practices reveals just how central embodiment is to the
+      construction of American culture today.
 
 
       My larger research agenda concerns the religio-secular assemblages that
