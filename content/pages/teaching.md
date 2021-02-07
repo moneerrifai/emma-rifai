@@ -14,13 +14,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Diversity Statement
-        url: lorem-ipsum
-        style: button
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
     type: section_hero
   - title: Teaching Statement
     section_id: lorem-ipsum
