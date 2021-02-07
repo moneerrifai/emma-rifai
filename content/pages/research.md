@@ -5,16 +5,7 @@ excerpt: ''
 sections:
   - title: ''
     section_id: ''
-    content: |
-      [[Publications](presentationsandlectures)](#publications)
-
-      [Presentations and Lectures](presentationsandlectures)
-
-      [Research Statements](#researchstatements)
-
-      [Research Assistantships](#researchassistantships)
-
-      [Dissertation Abstract](#dissertationabstract)
+    content: ''
     actions: []
     type: section_hero
   - title: Publications
