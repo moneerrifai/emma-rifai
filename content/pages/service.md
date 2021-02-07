@@ -22,7 +22,9 @@ sections:
       [Affiliations](#affiliations)
 
 
-      [Languages](#languages)
+      [Language](#language)
+
+
 
     actions: []
     type: section_hero
