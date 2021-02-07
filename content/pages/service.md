@@ -23,6 +23,9 @@ sections:
     section_id: conferencesorganized
     image_alt: lorem-ipsum
     content: >
+      *   2020 Religion and Media Workshop, Annual Meeting of the American
+      Academy of Religion, Virtual
+
       *   2019 Annual Upper Midwest Meeting of the American Academy of Religion,
       St. Paul, Minnesota
 
