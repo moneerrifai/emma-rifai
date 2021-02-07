@@ -22,7 +22,7 @@ sections:
       *   Gender, Religion, and Culture
     actions:
       - label: Download CV
-        url: '#cv'
+        url: 'https://s3.amazonaws.com/www.emmarifai.com/resources/Rifai_CV.pdf'
         style: button
         icon_class: lorem-ipsum
         new_window: false
