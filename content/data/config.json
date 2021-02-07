@@ -89,7 +89,7 @@
                 "label": "lorem-ipsum",
                 "url": "google.com",
                 "style": "icon",
-                "icon_class": "fas-graduation-cap",
+                "icon_class": "fas-graduation-cab",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
