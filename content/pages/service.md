@@ -17,7 +17,7 @@ sections:
       [Dissertation Abstract](#dissertationabstract)
     actions: []
     type: section_hero
-  - title: Publications
+  - title: Conferences Organized
     section_id: publications
     image_alt: lorem-ipsum
     content: >
