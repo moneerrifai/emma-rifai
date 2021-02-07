@@ -310,13 +310,13 @@ sections:
     content: |
       [Publications](#publications)
 
-      Presentations and Lectures
+      [Presentations and Lectures](#presentationsandlectures)
 
-      Research Statement
+      [Research Statement](#researchstatement)
 
-      Research Assistantships
+      [Research Assistantships](#researchassistantships)
 
-      Dissertation Abstract
+      [Dissertation Abstract](#dissertationabstract)
     actions: []
     type: section_hero
 layout: advanced
