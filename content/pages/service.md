@@ -5,11 +5,18 @@ excerpt: ''
 sections:
   - title: ''
     section_id: lorem-ipsum
-    content: |+
+    content: >
       [Conferences Organized](#conferencesorganized)
 
-      Service to Profession
 
+      [Service to Profession](#servicetoprofession)
+
+
+      [Departmental and University Service](#departmentalanduniversityservice)
+
+
+      [Professional and Academic
+      Development](#professionalandacademicdevelopment)
     actions: []
     type: section_hero
   - title: Conferences Organized
