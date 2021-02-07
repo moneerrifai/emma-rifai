@@ -83,7 +83,7 @@
                 "url": "https://scholar.google.com/citations?user=zL3di_0AAAAJ&hl=en&oi=ao",
                 "style": "icon",
                 "icon_class": "fa-google",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
