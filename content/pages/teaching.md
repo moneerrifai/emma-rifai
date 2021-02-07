@@ -190,9 +190,14 @@ sections:
   - title: Teaching Resources
     section_id: teachingresources
     image_alt: lorem-ipsum
-    content: |+
-      World Religions
+    content: >
+      [Fashion as Technology? -
+      PowerPoint](https://s3.amazonaws.com/www.emmarifai.com/resources/islamic_fashion.pdf)
 
+
+      [God and Google - PowerPoint
+
+      ](https://s3.amazonaws.com/www.emmarifai.com/resources/god_and_google.pdf)
     actions: []
     type: section_content
   - title: lorem-ipsum
