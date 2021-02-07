@@ -82,7 +82,7 @@ sections:
     actions: []
     type: section_content
   - title: Language
-    section_id: lorem-ipsum
+    section_id: language
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
