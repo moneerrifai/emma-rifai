@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Research
 hide_title: false
 excerpt: lorem-ipsum
 sections:
