@@ -92,7 +92,7 @@ sections:
       below.
     actions:
       - label: Download
-        url: lorem-ipsum
+        url: 'https://s3.amazonaws.com/www.emmarifai.com/resources/Rifai_CV.pdf'
         style: link
         icon_class: lorem-ipsum
         new_window: true
