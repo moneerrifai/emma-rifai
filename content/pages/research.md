@@ -259,13 +259,10 @@ sections:
   - title: Research Assistantships
     section_id: researchassistantships
     image_alt: lorem-ipsum
-    content: >
-      [Fashion as Technology? -
-      PowerPoint](https://s3.amazonaws.com/www.emmarifai.com/resources/islamic_fashion.pdf)
+    content: |
+      Jenna Supp-Montgomerie, Religious Studies Department, 2015-2016
 
-
-      [God and Google - PowerPoint
-
+      Michelle Lelwica, Religious Studies Department, 2006-2008[
       ](https://s3.amazonaws.com/www.emmarifai.com/resources/god_and_google.pdf)
     actions: []
     type: section_content
