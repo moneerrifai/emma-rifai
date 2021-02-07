@@ -18,7 +18,7 @@ sections:
     actions: []
     type: section_hero
   - title: Conferences Organized
-    section_id: publications
+    section_id: conferencesorganized
     image_alt: lorem-ipsum
     content: >
       ##### Refereed Journal Articles
