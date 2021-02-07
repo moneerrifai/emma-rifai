@@ -1,7 +1,7 @@
 ---
 title: Research
 hide_title: false
-excerpt: ']'
+excerpt: ''
 sections:
   - title: ''
     section_id: ''
