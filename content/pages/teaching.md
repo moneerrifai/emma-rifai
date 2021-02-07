@@ -225,19 +225,11 @@ sections:
   - title: Sample Syllabi
     section_id: samplesyllabi
     image_alt: lorem-ipsum
-    content: >
-      ## Lorem ipsum
+    content: >+
+      [“World(?) “Religion(s)(?)"(?)
 
+      ](https://s3.amazonaws.com/www.emmarifai.com/resources/Rifai_Syllabus_World+Religions.pdf)
 
-      [Lorem](google.com) ipsum dolor sit amet, **consectetur adipiscing elit**,
-      sed do eiusmod tempor incididunt ut labore et dolore magna [aliqua](<\<a
-      href="https://www.w3schools.com" target="\_blank"\>Visit
-      W3Schools\</a\>>).
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
     actions:
       - label: lorem-ipsum/n
         url: lorem-ipsum
