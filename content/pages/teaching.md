@@ -212,17 +212,19 @@ sections:
   - title: Teaching Evaluations
     section_id: teachingevaluations
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      Teaching evaluation by Dr. Leslie Schwalm
+
+      Teaching evaluation by Dr. Jenna Supp-Montgomerie
+
+      Teaching evaluation by Dr. Kristy Nabhan-Warren
+
+      Sample Student Evaluations
+
+      Workshop Evaluation by Sarah Goettsch
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
   - title: lorem-ipsum
