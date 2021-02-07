@@ -217,16 +217,20 @@ sections:
       Schwalm](https://s3.amazonaws.com/www.emmarifai.com/evals/leslie_schwalm_eval.pdf)
 
 
-      Teaching evaluation by Dr. Jenna Supp-Montgomerie
+      [Teaching evaluation by Dr. Jenna
+      Supp-Montgomerie](https://s3.amazonaws.com/www.emmarifai.com/evals/jenna_supp_montgomerie_eval.pdf)
 
 
-      Teaching evaluation by Dr. Kristy Nabhan-Warren
+      [Teaching evaluation by Dr. Kristy
+      Nabhan-Warren](https://s3.amazonaws.com/www.emmarifai.com/evals/kristy_nabhan_warren_eval.pdf)
 
 
-      Sample Student Evaluations
+      [Sample Student
+      Evaluations](https://s3.amazonaws.com/www.emmarifai.com/evals/Rifai_Sample+Student+Evaluations.pdf)
 
 
-      Workshop Evaluation by Sarah Goettsch
+      [Workshop Evaluation by Sarah
+      Goettsch](https://s3.amazonaws.com/www.emmarifai.com/evals/Rifai_Workshop+Evaluation_Sarah.pdf)
     actions: []
     type: section_content
   - title: lorem-ipsum
