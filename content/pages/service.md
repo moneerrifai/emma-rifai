@@ -46,7 +46,7 @@ sections:
   - title: Service to Profession
     section_id: servicetoprofession
     image_alt: lorem-ipsum
-    content: "*   2019 Peer Reviewer for Communication, Culture and Critique\n\n*   2017-2019\tStudent Director of the Upper Midwest Region of the American Academy of Religion\n\n*   2018 Peer Reviewer for Contemporary Women’s Writing\n"
+    content: "*   2018-Present Chair and Steering Committee Member of the Religion and Media Workshop of the American Academy of Religion\n\n*   2019 Peer Reviewer for Communication, Culture and Critique\n\n*   2017-2019\tStudent Director of the Upper Midwest Region of the American Academy of Religion\n\n*   2018 Peer Reviewer for Contemporary Women’s Writing\n"
     actions: []
     type: section_content
   - title: Departmental and University Service
