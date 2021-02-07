@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: ''
     section_id: ''
-    content: |+
+    content: |
       [Teaching Statement](#teachingstatement)
 
       [University Teaching Experience](#universityteachingexperience)
@@ -18,8 +18,7 @@ sections:
 
       [Sample Syllabi](#samplesyllabi)
 
-      [Diversity Statement](#diversitystatements)
-
+      [Diversity Statement](#diversitystatement)
     actions: []
     type: section_hero
   - title: Teaching Statement
