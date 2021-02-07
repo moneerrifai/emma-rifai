@@ -3,11 +3,6 @@ title: Research
 hide_title: false
 excerpt: ''
 sections:
-  - title: ''
-    section_id: ''
-    content: ''
-    actions: []
-    type: section_hero
   - title: Publications
     section_id: publications
     image_alt: lorem-ipsum
