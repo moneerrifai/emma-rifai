@@ -61,7 +61,7 @@ sections:
       Donovan O. Schaefer.Material Religion12:4 (December 2016):515-516.
     actions: []
     type: section_content
-  - title: Presentations
+  - title: Presentations and lectures
     section_id: presentations
     image_alt: lorem-ipsum
     content: >
