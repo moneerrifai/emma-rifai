@@ -19,7 +19,7 @@ sections:
     actions: []
     type: section_hero
   - title: Publications
-    section_id: teachingstatement
+    section_id: publications
     image_alt: lorem-ipsum
     content: >
       My approach to teaching is informed by my commitment to education as a
