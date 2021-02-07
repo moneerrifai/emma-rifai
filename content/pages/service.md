@@ -257,7 +257,7 @@ sections:
     actions: []
     type: section_content
   - title: Professional and Academic Development
-    section_id: researchassistantships
+    section_id: professionalandacademicdevelopment
     image_alt: lorem-ipsum
     content: |
       Jenna Supp-Montgomerie, Religious Studies Department, 2015-2016
