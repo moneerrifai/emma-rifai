@@ -90,7 +90,7 @@
                 "url": "google.com",
                 "style": "icon",
                 "icon_class": "fa-user-graduate",
-                "new_window": true,
+                "new_window": false,
                 "no_follow": false,
                 "type": "action"
             }
