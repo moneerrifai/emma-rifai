@@ -170,7 +170,7 @@ sections:
       *   Women’s Religious History (REL 374), Fall 2012
     actions: []
     type: section_content
-  - title: Teaching Evaluations
+  - title: Research Statement
     section_id: teachingevaluations
     image_alt: lorem-ipsum
     content: >
