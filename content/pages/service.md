@@ -72,7 +72,13 @@ sections:
     section_id: affiliations
     image_alt: lorem-ipsum
     content: |
-      *
+      *   American Academy of Religion
+
+      *   International Society for Media, Religion, and Culture
+
+      *   Theta Alpha Kappa
+
+      *   Alpha Kappa Delta
     actions: []
     type: section_content
   - title: lorem-ipsum
