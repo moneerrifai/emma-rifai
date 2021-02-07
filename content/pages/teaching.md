@@ -7,13 +7,6 @@ sections:
     section_id: lorem-ipsum
     content: ''
     actions:
-      - label: University Teaching Experience
-        url: '#universityteachingexperience'
-        style: button
-        icon_class: lorem-ipsumff
-        new_window: false
-        no_follow: false
-        type: action
       - label: Teaching Evaluations
         url: lorem-ipsum
         style: button
