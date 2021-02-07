@@ -5,17 +5,16 @@ excerpt: ''
 sections:
   - title: ''
     section_id: ''
-    content: |+
-      Publications
+    content: |
+      [Publications](#publications)
 
-      Presentations
+      [Presentations](#presentations)
 
-      Research Statements
+      [Research Statements](#researchstatements)
 
-      Research Assistantships
+      [Research Assistantships](#researchassistantships)
 
-      Dissertation Abstract
-
+      [Dissertation Abstract](#dissertationabstract)
     actions: []
     type: section_hero
   - title: Publications
