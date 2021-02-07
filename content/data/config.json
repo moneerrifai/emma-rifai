@@ -89,7 +89,7 @@
                 "label": "lorem-ipsum",
                 "url": "google.com",
                 "style": "icon",
-                "icon_class": "fa-google",
+                "icon_class": "fa-google-scholar",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
