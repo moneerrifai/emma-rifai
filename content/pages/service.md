@@ -69,7 +69,7 @@ sections:
     actions: []
     type: section_content
   - title: Affiliations
-    section_id: lorem-ipsum
+    section_id: affiliations
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
