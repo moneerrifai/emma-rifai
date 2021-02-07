@@ -6,14 +6,7 @@ sections:
   - title: ''
     section_id: lorem-ipsum
     content: ''
-    actions:
-      - label: Teaching Evaluations
-        url: lorem-ipsum
-        style: button
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_hero
   - title: Teaching Statement
     section_id: lorem-ipsum
