@@ -18,7 +18,7 @@ sections:
 
     actions: []
     type: section_hero
-  - title: Teaching Statement
+  - title: Publications
     section_id: teachingstatement
     image_alt: lorem-ipsum
     content: >
