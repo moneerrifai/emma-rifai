@@ -3,6 +3,20 @@ title: Research
 hide_title: false
 excerpt: ''
 sections:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: |
+      [Publications](#publications)
+
+      [Presentations and Lectures](#presentationsandlectures)
+
+      [Research Statement](#researchstatement)
+
+      [Research Assistantships](#researchassistantships)
+
+      [Dissertation Abstract](#dissertationabstract)
+    actions: []
+    type: section_hero
   - title: Publications
     section_id: publications
     image_alt: lorem-ipsum
@@ -300,19 +314,5 @@ sections:
 
     actions: []
     type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    content: |
-      [Publications](#publications)
-
-      [Presentations and Lectures](#presentationsandlectures)
-
-      [Research Statement](#researchstatement)
-
-      [Research Assistantships](#researchassistantships)
-
-      [Dissertation Abstract](#dissertationabstract)
-    actions: []
-    type: section_hero
 layout: advanced
 ---
