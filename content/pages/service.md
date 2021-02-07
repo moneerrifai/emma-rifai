@@ -133,7 +133,7 @@ sections:
     actions: []
     type: section_content
   - title: Departmental and University Service
-    section_id: researchstatement
+    section_id: departmentalanduniversityservice
     image_alt: lorem-ipsum
     content: >
       American secularism is a pervasive and utterly inescapable aspect of life
