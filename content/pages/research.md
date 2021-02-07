@@ -307,17 +307,16 @@ sections:
     type: section_content
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      [Publications](#publications)
 
+      Presentations and Lectures
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Research Statement
 
+      Research Assistantships
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Dissertation Abstract
     actions: []
     type: section_hero
 layout: advanced
