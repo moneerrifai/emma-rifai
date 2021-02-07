@@ -3,7 +3,7 @@ title: Teaching
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: tet
+  - title: test
     section_id: lorem-ipsum
     content: ''
     actions: []
