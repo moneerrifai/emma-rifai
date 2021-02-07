@@ -188,7 +188,7 @@ sections:
     actions: []
     type: section_content
   - title: Teaching Resources
-    section_id: lorem-ipsum
+    section_id: teachingresources
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
