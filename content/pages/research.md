@@ -195,7 +195,7 @@ sections:
     actions: []
     type: section_content
   - title: Research Assistantships
-    section_id: teachingresources
+    section_id: researchassistantships
     image_alt: lorem-ipsum
     content: >
       [Fashion as Technology? -
