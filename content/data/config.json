@@ -87,7 +87,7 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
+                "url": "google.com",
                 "style": "icon",
                 "icon_class": "fa-graduation-cap",
                 "new_window": false,
