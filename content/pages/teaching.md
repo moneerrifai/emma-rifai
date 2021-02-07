@@ -225,11 +225,14 @@ sections:
   - title: Sample Syllabi
     section_id: samplesyllabi
     image_alt: lorem-ipsum
-    content: >+
-      [“World(?) “Religion(s)(?)"(?)
+    content: >
+      [“World(?)
+      “Religion(s)(?)"(?)](https://s3.amazonaws.com/www.emmarifai.com/resources/Rifai_Syllabus_World+Religions.pdf)
 
-      ](https://s3.amazonaws.com/www.emmarifai.com/resources/Rifai_Syllabus_World+Religions.pdf)
 
+      [Women and Religion in America Today
+
+      ](https://s3.amazonaws.com/www.emmarifai.com/resources/women_and_religion_in_america_today.pdf)
     actions:
       - label: lorem-ipsum/n
         url: lorem-ipsum
