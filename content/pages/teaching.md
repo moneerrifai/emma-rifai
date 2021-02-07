@@ -224,7 +224,7 @@ sections:
     actions: []
     type: section_content
   - title: Sample Syllabi
-    section_id: lorem-ipsum
+    section_id: samplesyllabi
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
