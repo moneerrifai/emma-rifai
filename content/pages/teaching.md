@@ -215,12 +215,11 @@ sections:
     section_id: onlineteachingresources
     image_alt: lorem-ipsum
     content: >
-      Fashioning Identities - Prezi
+      [Fashioning Identities -
+      Prezi](https://www.google.com/url?q=https://prezi.com/-q01sfpkr8ro/?token%3Db8fce429c69b85ded7043eb6148c26d76d7b772c6bf70efc5dbdc6cf90934660\&sa=D\&source=hangouts\&ust=1612803704371000\&usg=AFQjCNGf1WMvf5OThSietnjDDVSr01TOFg)
 
 
-      [Veiling in Islam: An Introduction - PowerPoint
-
-      ](https://s3.amazonaws.com/www.emmarifai.com/resources/veiling_in_islam.pdf)
+      Veiling in Islam: An Introduction - PowerPoint
     actions: []
     type: section_content
   - title: Sample Syllabi
