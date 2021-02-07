@@ -38,7 +38,7 @@
             },
             {
                 "label": "Teaching",
-                "url": "lorem-ipsum",
+                "url": "/teaching",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
