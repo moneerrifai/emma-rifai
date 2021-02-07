@@ -26,25 +26,17 @@ sections:
       *   2020 Religion and Media Workshop, Annual Meeting of the American
       Academy of Religion, Virtual
 
+
       *   2019 Annual Upper Midwest Meeting of the American Academy of Religion,
       St. Paul, Minnesota
-
-
-      <!---->
 
 
       *   2018 Graduate Student Council Student Roundtable Series, Annual
       Meeting of the American Academy of Religion, Denver, Colorado
 
 
-      <!---->
-
-
       *   2018 Annual Upper Midwest Meeting of the American Academy of Religion,
       St. Paul, Minnesota
-
-
-      <!---->
 
 
       *   2017 Graduate Student Council Programming, Annual Meeting of the
