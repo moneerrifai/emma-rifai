@@ -244,7 +244,11 @@ sections:
 
 
       \<a href="<https://www.stackbit.com/?utm_source=deployed-footer>"
-      target="\_blank" rel="noopener">Stackbit\</a>[
+      target="\_blank" rel="noopener">Stackbit\</a>
+
+
+      [test](<\<a href="https://www.stackbit.com/?utm_source=deployed-footer"
+      target="\_blank" rel="noopener"\>Stackbit\</a\>>)[
 
       ](https://s3.amazonaws.com/www.emmarifai.com/resources/evangelical_christianities_in_america_today.pdf)
     actions: []
