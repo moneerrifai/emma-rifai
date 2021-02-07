@@ -190,17 +190,9 @@ sections:
   - title: Teaching Resources
     section_id: teachingresources
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      World Religions
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
   - title: lorem-ipsum
