@@ -62,7 +62,7 @@ sections:
     actions: []
     type: section_content
   - title: Presentations and lectures
-    section_id: presentations
+    section_id: presentationsandlectures
     image_alt: lorem-ipsum
     content: >
       ##### The University of Iowa, Instructor
