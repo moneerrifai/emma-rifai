@@ -52,7 +52,7 @@ sections:
   - title: Departmental and University Service
     section_id: departmentalanduniversityservice
     image_alt: lorem-ipsum
-    content: "*   2019 Theta Alpha Kappa Treasurer, The University of Iowa\n\n*   2015-2018\tGraduate Student Critical Theory Reading Group Coordinator, The University of Iowa\n"
+    content: "*   2019 Theta Alpha Kappa Treasurer, The University of Iowa\n\n*   2015-2018\tGraduate Student Critical Theory Reading Group Coordinator, The University of Iowa\n\n*   2015-2018\tReligion Graduate Student Organization (RGSO), The University of Iowa\n\n    *   Co-Coordinator, 2017-2018\n\n    *   Faculty Committee Representative, 2016-2018\n"
     actions: []
     type: section_content
   - title: Professional and Academic Development
