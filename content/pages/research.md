@@ -207,7 +207,7 @@ sections:
       ](https://s3.amazonaws.com/www.emmarifai.com/resources/god_and_google.pdf)
     actions: []
     type: section_content
-  - title: Dissartation Abbstract
+  - title: Dissertation Abbstract
     section_id: onlineteachingresources
     image_alt: lorem-ipsum
     content: >
