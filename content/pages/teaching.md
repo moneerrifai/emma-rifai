@@ -78,14 +78,10 @@ sections:
       was particularly compelling in that it asked fellow students to think
       about their own compliance with culturally appropriative practices
       embedded in an activity that nearly everyone had participated in. I find
-      that concluding the semester with these
-
-
-      mini lessons reinforces for students not only the importance of being
-      mindful of theory and methodology but also, more importantly, their own
-      potential for being contributing members of their academic communities.
-
-
+      that concluding the semester with these mini lessons reinforces for
+      students not only the importance of being mindful of theory and
+      methodology but also, more importantly, their own potential for being
+      contributing members of their academic communities.
 
 
       In recognition of my success in teaching at The University of Iowa, I
@@ -99,8 +95,6 @@ sections:
       are presented with new ideas and ways in which to view the world. I have
       thoroughly enjoyed listening to both the instructor and my classmates’
       ideas on the topics covered in class.”
-
-
 
 
       In all of my roles as an educator—as a teacher, a mentor, an advocate, and
