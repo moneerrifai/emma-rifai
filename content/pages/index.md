@@ -17,13 +17,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Dissertation
-        url: '#dissertation'
-        style: button
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
       - label: Download CV
         url: '#cv'
         style: button
