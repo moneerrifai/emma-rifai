@@ -3,11 +3,6 @@ title: Teaching
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: ''
-    section_id: hero
-    content: ''
-    actions: []
-    type: section_hero
   - title: Teaching Statement
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
