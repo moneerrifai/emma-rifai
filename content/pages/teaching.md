@@ -5,17 +5,10 @@ excerpt: lorem-ipsum
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      [Teaching Statement](#teachingstatement)
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      [University Teaching Experience](#universityteachingexperience)
     actions: []
     type: section_hero
   - title: Teaching Statement
