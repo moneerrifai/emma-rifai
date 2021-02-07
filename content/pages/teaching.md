@@ -238,7 +238,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: lorem-ipsum/n
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
