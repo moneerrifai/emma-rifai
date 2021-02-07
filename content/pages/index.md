@@ -24,13 +24,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Contact Me
-        url: /contact
-        style: button
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: about
     type: section_content
     title: About Me
