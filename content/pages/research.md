@@ -194,7 +194,7 @@ sections:
       Goettsch](https://s3.amazonaws.com/www.emmarifai.com/evals/Rifai_Workshop+Evaluation_Sarah.pdf)
     actions: []
     type: section_content
-  - title: Teaching Resources
+  - title: Research Assistantships
     section_id: teachingresources
     image_alt: lorem-ipsum
     content: >
