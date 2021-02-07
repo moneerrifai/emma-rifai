@@ -5,16 +5,11 @@ excerpt: ''
 sections:
   - title: ''
     section_id: lorem-ipsum
-    content: |
-      [Publications](#publications)
+    content: |+
+      [Conferences Organized](#conferencesorganized)
 
-      [Presentations and Lectures](#presentationsandlectures)
+      Service to Profession
 
-      [Research Statement](#researchstatement)
-
-      [Research Assistantships](#researchassistantships)
-
-      [Dissertation Abstract](#dissertationabstract)
     actions: []
     type: section_hero
   - title: Conferences Organized
