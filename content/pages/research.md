@@ -171,7 +171,7 @@ sections:
     actions: []
     type: section_content
   - title: Research Statement
-    section_id: teachingevaluations
+    section_id: researchstatement
     image_alt: lorem-ipsum
     content: >
       [Teaching evaluation by Dr. Leslie
