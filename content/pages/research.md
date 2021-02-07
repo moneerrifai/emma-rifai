@@ -269,13 +269,49 @@ sections:
   - title: Dissertation Abstract
     section_id: dissertationabstract
     image_alt: lorem-ipsum
-    content: >
-      [Fashioning Identities -
-      Prezi](https://www.google.com/url?q=https://prezi.com/-q01sfpkr8ro/?token%3Db8fce429c69b85ded7043eb6148c26d76d7b772c6bf70efc5dbdc6cf90934660\&sa=D\&source=hangouts\&ust=1612803704371000\&usg=AFQjCNGf1WMvf5OThSietnjDDVSr01TOFg)
+    content: >+
+      ###### Embodying the Secular: Power, Bodies, and American Secularism
 
 
-      [Veiling in Islam: An Introduction -
-      PowerPoint](https://s3.amazonaws.com/www.emmarifai.com/resources/veiling_in_islam.pdf)
+      American secularism is a pervasive and utterly inescapable aspect of life
+      in the United States today. To participate in American public life is to
+      engage with the particular secularism of the United States. And to engage
+      with the particular secularism of the United States is to perpetuate a
+      Protestant privilege embedded in the very fabric of this secularism on
+      every scale, from institutions to individuals. While a number of scholars
+      have attended to America’s particular form of secularism as it circulates
+      in institutions like law, politics, and economics, less attention has been
+      paid to how individuals embody American secularism in their daily lives.
+
+
+      “Embodying the Secular: Power, Bodies, and American Secularism” argues
+      that American secularism is best understood as fundamentally embodied and
+      that this embodiment is made plain in contemporary techniques of body
+      management. It finds that the body is a foundational site where it is
+      possible to see the co-constitutive nature of the “secular” and the
+      “religious” emerge as well as the scope and contours of their entangled
+      ontologies. This entanglement is particularly clear when considering how
+      American secularism is imbued with the same Protestant values, including
+      commitments to individualism, self-control, and optimization, that orient
+      American cultural life more broadly. Through case studies on
+      direct-to-consumer genetic testing, biohacking, and the pro-ana movement,
+      this dissertation explores the tensions between the discourses and
+      practices that seek to sustain American secularism and the bodies that
+      confound these attempts by expanding and contracting the field of
+      possibility from which the contemporary American subject emerges.
+
+
+      Intervening in religious studies, cultural studies, and gender studies,
+      this project makes plain the ways in which American secularism is embodied
+      and thus corrects a longstanding disregard for the bodily techniques that
+      sustain public life in the United States. It is not arbitrary or
+      insignificant that Protestant values and American secularism are
+      co-constituted at the site of the gendered body through popular body
+      management practices. Indeed, the continued daily performances of American
+      secularism and hegemonic Protestantism by gendered bodies through popular
+      body management practices reveals just how central embodiment is to the
+      construction of American culture today.
+
     actions: []
     type: section_content
 layout: advanced
