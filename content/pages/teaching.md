@@ -230,9 +230,17 @@ sections:
       “Religion(s)(?)"(?)](https://s3.amazonaws.com/www.emmarifai.com/resources/Rifai_Syllabus_World+Religions.pdf)
 
 
-      [Women and Religion in America Today
+      [Women and Religion in America
+      Today](https://s3.amazonaws.com/www.emmarifai.com/resources/women_and_religion_in_america_today.pdf)
 
-      ](https://s3.amazonaws.com/www.emmarifai.com/resources/women_and_religion_in_america_today.pdf)
+
+      [Harry
+      Potter](https://s3.amazonaws.com/www.emmarifai.com/resources/harry_potter.pdf)
+
+
+      [Evangelical Christianities in America Today 
+
+      ](https://s3.amazonaws.com/www.emmarifai.com/resources/evangelical_christianities_in_america_today.pdf)
     actions: []
     type: section_content
   - title: Diversity Statement
