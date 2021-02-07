@@ -4,7 +4,7 @@ hide_title: false
 excerpt: lorem-ipsum
 sections:
   - title: test
-    section_id: lorem-ipsum
+    section_id: her
     content: ''
     actions: []
     type: section_hero
