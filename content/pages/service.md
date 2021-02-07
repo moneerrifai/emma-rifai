@@ -62,7 +62,7 @@ sections:
     actions: []
     type: section_content
   - title: Service to Profession
-    section_id: presentationsandlectures
+    section_id: servicetoprofession
     image_alt: lorem-ipsum
     content: >
       ##### Conference Presentations
