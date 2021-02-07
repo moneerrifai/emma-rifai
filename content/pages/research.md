@@ -68,38 +68,68 @@ sections:
       ##### Conference Presentations
 
 
-      ##### Colloquia 
+      *   2020: “DNA Dieting: Genetic Testing, Nutrigenetics, and American
+      Secularism,” Annual Meeting of the American Academy of Religion, Virtual
 
 
-      Harry Potter: Mystery and Magic of Life (RELS:1997), Fall 2020
+      *   2018: “Uploading the Body; Embodying the Online:Bodies, Digital Space,
+      and the Pro-Ana Movement,” Annual Meeting of the American Academy of
+      Religion, Denver, Colorado
 
 
-      *   Women and Religion in America Today(RELS: 2986), Spring 2020
+      *   2018: “Networked Anorexia:Pro-Ana Communities, Network Logic, and the
+      Internet,” Conference of the International Society for Media, Religion,
+      and Culture, University of Colorado Boulder, Boulder, Colorado
 
 
-      *   Digital Media and Religion(RELS: 2930/COMM:2079), Spring 2018
+      *   2018: “Pro-Ana:An Internet-Mediated ‘New Religious Movement’?”Craft
+      Critique Culture Interdisciplinary Graduate Student Conference, The
+      University of Iowa, Iowa City, Iowa
+
+
+      *   2017: “Disrupting Secular Space:Veiled Female Bodies in Turkish
+      Shopping Malls,” Jakobsen Memorial Graduate Conference, The University of
+      Iowa, Iowa City, Iowa
+
+
+      *   2016: “Fashioning Identities:New Relationships with Fashion and
+      Modesty in Turkey,” Doing the Body in the 21st Century Conference,
+      University of Pittsburgh, Pittsburgh, Pennsylvania
+
+
+      *   2008: “The Body’s Iron Cage and Its Relationship to the Protestant
+      Ethic,” Annual Upper Midwest Meeting of the American Academy of Religion,
+      St. Paul, Minnesota 
+
+
+      *   2007: “From California to Calcutta:Spreading the White-Western
+      Devotion to Female Thinness—A Feminist Post-Colonial Analysis,” Annual
+      Meeting of the American Academy of Religion, San Diego, California 
+
+
+      ##### Colloquia
+
+
+      *   2019: “Biohacking the Body: Fasting, Silicon Valley, and Protestant
+      Privilege,” The University of Iowa, Iowa City, Iowa
 
 
       ##### Guest Class Lectures
 
 
-      *   Modern Religion and Culture(RELS:1250/HIST:1050), Spring 2017, Spring
-      2021
+      *   2019: “Digital Waistlands: Pro-Ana Communities, Religion, and
+      Embodiment,” inFood, Body, and Belief: A Global Perspective(RELS 2674),The
+      University of Iowa, Iowa City, Iowa
 
 
-      *   Medieval Religion and Culture(RELS:1225/HIST:1025), Fall 2018
+      *   2014: “Spreading the Religion of Thinness from California to
+      Calcutta:A Critical Feminist Postcolonial Analysis,”in Women’s Religious
+      History(REL 374),Concordia College, Moorhead, Minnesota
 
 
-      *   Harry Potter: Mystery & Magic of Life(RELS:1997), Fall 2017
-
-
-      *   Digital Media and Religion(RELS:2930/COMM:2079), Spring 2017
-
-
-      *   Religion in America Today(RELS:1702), Fall 2015, Fall 2016
-
-
-      *   Religion and Sport in America(RELS:2877), Spring 2015, Spring 2016
+      *   2014: “Fashioning Identities:New Relationships with Fashion and
+      Modesty inTurkey,”in Social Theory(SOC302),Minnesota State
+      UniversityMoorhead, Moorhead, Minnesota
     actions: []
     type: section_content
   - title: Research Statement
