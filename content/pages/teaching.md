@@ -14,13 +14,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Teaching Resources
-        url: lorem-ipsum
-        style: button
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
       - label: Sample Syllabi
         url: lorem-ipsum
         style: button
