@@ -10,13 +10,6 @@ sections:
       research activities, and service background. To download my CV, please
       click here.
     actions:
-      - label: About Me
-        url: '#about'
-        style: button
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
       - label: Download CV
         url: '#cv'
         style: button
