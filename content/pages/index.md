@@ -95,7 +95,7 @@ sections:
         url: 'https://s3.amazonaws.com/www.emmarifai.com/resources/Rifai_CV.pdf'
         style: link
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_content
