@@ -304,14 +304,11 @@ sections:
       campus and in my community, from more explicitly activist engagements in
       the forms of marches, sit-ins, and rallies to more educational
       opportunities like leading and participating in workshops and discussions.
-      As a graduate student
-
-
-      at The University of Iowa, I served on the UI Council on the Status of
-      Women and participated in the Iowa N.E.W. Leadership Institute.
-      Additionally, I regularly offered workshops through a variety of local
-      community organizations that worked to raise awareness and dispel
-      misunderstandings concerning women and gender in Islam.
+      As a graduate student at The University of Iowa, I served on the UI
+      Council on the Status of Women and participated in the Iowa N.E.W.
+      Leadership Institute. Additionally, I regularly offered workshops through
+      a variety of local community organizations that worked to raise awareness
+      and dispel misunderstandings concerning women and gender in Islam.
 
 
       After graduation, I intend to continue to implement my intersectional
