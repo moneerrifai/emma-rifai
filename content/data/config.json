@@ -28,7 +28,7 @@
             },
             {
                 "label": "Honors & Awards",
-                "url": "/honors",
+                "url": "/honors/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
