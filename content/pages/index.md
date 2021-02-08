@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Greeting
+    title: Greetings
     content: >
       I am a PhD candidate in the Department of Religious Studies at The
       University of Iowa. My research and teaching interests include:
