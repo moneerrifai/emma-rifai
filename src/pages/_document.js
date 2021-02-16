@@ -16,8 +16,9 @@ class MyDocument extends Document {
                 <Head />
                 <body>
                     <Main />
-                    <ScriptTag src={withPrefix('assets/js/plugins.js')}/>
-                    <ScriptTag src={withPrefix('assets/js/main.js')}/>
+                    <ScriptTag src={withPrefix('assets/js/init.js')}/>
+                    <ScriptTag src={withPrefix('assets/js/page-load.js')}/>
+                    <ScriptTag src={withPrefix('assets/js/page-unload.js')}/>
                     <NextScript />
                 </body>
             </Html>
