@@ -2,7 +2,7 @@
     "title": "Emma Rifai",
     "path_prefix": "/",
     "description": "Emma Rifai's Personal Website",
-    "layout_style": "simple",
+    "layout_style": "overflow",
     "palette": "blue",
     "header": {
         "title": "Emma Rifai",
