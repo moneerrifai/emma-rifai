@@ -93,17 +93,7 @@ sections:
   - title: Community Outreach
     section_id: communityoutreach
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "*   2019 “Islam and Veiling Practices” Workshop Host, Lutheran Campus\_\_\n\n    Ministries, The University of Iowa, Iowa City, Iowa\_\n\n    \_\n\n    2018“Women and Islam” Workshop Host,\_JustChurch, Iowa City, Iowa\_\n\n    \_\n\n    2018“Women and Islam” Workshop Host, Gloria Dei Lutheran Church, Iowa\_\_\n\n    City, Iowa\_\n\n    \_\n\n    2017“Islam” Three-Part Workshop Co-Host, Gloria Dei Lutheran Church, Iowa\_\_\n\n    City, Iowa\_\n\n    \_\n\n    2015“Islam” Guest Discussion Leader, Lutheran Campus Ministries, The\_\_\n\n    University of Iowa, Iowa\_City, Iowa\_\_\n"
     actions: []
     type: section_content
 layout: advanced
