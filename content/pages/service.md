@@ -64,6 +64,12 @@ sections:
     content: "\n\n*   2015-2018\tGraduate Student Critical Theory Reading Group Coordinator, The University of Iowa\n\n*   2015-2018\tReligion Graduate Student Organization (RGSO), The University of Iowa\n\n    *   Co-Coordinator, 2017-2018\n\n    *   Faculty Committee Representative, 2016-2018\n\n    *   Graduate Student Mentor, 2016-2017\n\n    *   Secretary/Treasurer, 2016\n\n    *   Social Event Chair, 2015-2016\n\n*   2016-2017\tUI Council on the Status of Women Member, The University of Iowa\n\n*   2015 Advanced Graduate Student Workshop Leader, The University of Iowa\n"
     actions: []
     type: section_content
+  - title: Community Outreach
+    section_id: communityoutreach
+    image_alt: lorem-ipsum
+    content: "*   2019 “Islam and Veiling Practices” Workshop Host, Lutheran Campus Ministries, The University of Iowa, Iowa City, Iowa2019“Islam and Veiling Practices” Workshop Host, Lutheran Campus Ministries, The University of Iowa, Iowa City, Iowa\n\n*   2018 “Women and Islam” Workshop Host,\_JustChurch, Iowa City, Iowa\_\n\n*   2018 “Women and Islam” Workshop Host, Gloria Dei Lutheran Church, Iowa\_\_\n\n*   2017“Islam” Three-Part Workshop Co-Host, Gloria Dei Lutheran Church, Iowa City, Iowa\n\n*   2015“Islam” Guest Discussion Leader, Lutheran Campus Ministries, The University of Iowa, Iowa City, Iowa\n"
+    actions: []
+    type: section_content
   - title: Professional and Academic Development
     section_id: professionalandacademicdevelopment
     image_alt: lorem-ipsum
@@ -88,12 +94,6 @@ sections:
     image_alt: lorem-ipsum
     content: |
       Arabic, Reading Proficient 
-    actions: []
-    type: section_content
-  - title: Community Outreach
-    section_id: communityoutreach
-    image_alt: lorem-ipsum
-    content: "*   2019 “Islam and Veiling Practices” Workshop Host, Lutheran Campus Ministries, The University of Iowa, Iowa City, Iowa2019“Islam and Veiling Practices” Workshop Host, Lutheran Campus Ministries, The University of Iowa, Iowa City, Iowa\n\n*   2018 “Women and Islam” Workshop Host,\_JustChurch, Iowa City, Iowa\_\n\n*   2018 “Women and Islam” Workshop Host, Gloria Dei Lutheran Church, Iowa\_\_\n\n*   2017“Islam” Three-Part Workshop Co-Host, Gloria Dei Lutheran Church, Iowa City, Iowa\n\n*   2015“Islam” Guest Discussion Leader, Lutheran Campus Ministries, The University of Iowa, Iowa City, Iowa\n"
     actions: []
     type: section_content
 layout: advanced
