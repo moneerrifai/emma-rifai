@@ -5,7 +5,7 @@ excerpt: ''
 sections:
   - title: ''
     section_id: lorem-ipsum
-    content: >+
+    content: >
       [Conferences Organized](#conferencesorganized)
 
 
@@ -13,6 +13,9 @@ sections:
 
 
       [Departmental and University Service](#departmentalanduniversityservice)
+
+
+      [Community Outreach](https://www.emmarifai.com/service/#communityoutreach)
 
 
       [Professional and Academic
@@ -23,9 +26,6 @@ sections:
 
 
       [Language](#language)
-
-
-
     actions: []
     type: section_hero
   - title: Conferences Organized
