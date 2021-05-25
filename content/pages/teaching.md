@@ -106,8 +106,8 @@ sections:
       Nabhan-Warren](https://s3.amazonaws.com/www.emmarifai.com/evals/kristy_nabhan_warren_eval.pdf)
 
 
-      [Sample Student
-      Evaluations](https://s3.amazonaws.com/www.emmarifai.com/evals/Rifai_Sample+Student+Evaluations.pdf)
+      [Evidence of Teaching
+      Effectiveness](https://s3.amazonaws.com/www.emmarifai.com/evals/Rifai_Evidence+of+Teaching+Effectiveness.pdf)
 
 
       [Workshop Evaluation by Sarah
