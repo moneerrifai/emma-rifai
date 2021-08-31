@@ -4,17 +4,9 @@ hide_title: false
 excerpt: lorem-ipsum
 sections:
   - title: 2021 - Present
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      Virginia Polytechnic Institute and State University
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
 layout: advanced
