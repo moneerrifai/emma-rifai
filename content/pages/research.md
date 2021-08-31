@@ -25,17 +25,17 @@ sections:
 
 
       *   “Digital Waistlands: Pro-Ana Communities, Religion, and Embodiment.”
-      Journal of Religion, Media, and Digital Culture9 (2020): 207-227.
+      Journal of Religion, Media, and Digital Culture 9 (2020): 207-227.
 
 
       *   “Weighty Matter(s): Religion, Secularism, and American Weight Loss
-      Culture.” Religion Compass14:2 (February 2020): 1-10.
+      Culture.” Religion Compass 14:2 (February 2020): 1-10.
 
 
-      *   “Spreading the Religion of Thinness from California to Calcutta:A
-      Critical Feminist Postcolonial Analysis” with Michelle Lelwica andJenna
-      McNallie.Journal of Feminist Studies in Religion24:1 (Spring
-      2009):20-41.(Published under Emma Hoglund.
+      *   “Spreading the Religion of Thinness from California to Calcutta: A
+      Critical Feminist Postcolonial Analysis” with Michelle Lelwica and Jenna
+      McNallie. Journal of Feminist Studies in Religion 24:1 (Spring
+      2009):20-41. (Published under Emma Hoglund.
 
 
       ##### Textbook Entries
