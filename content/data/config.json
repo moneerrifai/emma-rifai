@@ -19,7 +19,7 @@
             },
             {
                 "label": "Experience",
-                "url": "lorem-ipsum",
+                "url": "/experience/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
