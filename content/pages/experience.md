@@ -10,7 +10,6 @@ sections:
       ###### Virginia Polytechnic Institute and State University
 
       Department of Religion and Culture
-
       Instructor
     actions: []
     type: section_content
