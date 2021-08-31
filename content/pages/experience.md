@@ -3,7 +3,7 @@ title: Experience
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: '2021 - '
+  - title: 2021 - Present
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
