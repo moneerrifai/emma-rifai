@@ -61,7 +61,7 @@ sections:
   - title: Departmental and University Service
     section_id: departmentalanduniversityservice
     image_alt: lorem-ipsum
-    content: "\n\n*   2015-2018\tGraduate Student Critical Theory Reading Group Coordinator, The University of Iowa\n\n*   2015-2018\tReligion Graduate Student Organization (RGSO), The University of Iowa\n\n    *   Co-Coordinator, 2017-2018\n\n    *   Faculty Committee Representative, 2016-2018\n\n    *   Graduate Student Mentor, 2016-2017\n\n    *   Secretary/Treasurer, 2016\n\n    *   Social Event Chair, 2015-2016\n\n*   2016-2017\tUI Council on the Status of Women Member, The University of Iowa\n\n*   2015 Advanced Graduate Student Workshop Leader, The University of Iowa\n"
+    content: "*   2015-2018\tGraduate Student Critical Theory Reading Group Coordinator, The University of Iowa\n\n*   2015-2018\tReligion Graduate Student Organization (RGSO), The University of Iowa\n\n    *   Co-Coordinator, 2017-2018\n\n    *   Faculty Committee Representative, 2016-2018\n\n    *   Graduate Student Mentor, 2016-2017\n\n    *   Secretary/Treasurer, 2016\n\n    *   Social Event Chair, 2015-2016\n\n*   2016-2017 UI Council on the Status of Women Member, The University of Iowa\n\n*   2015 Advanced Graduate Student Workshop Leader, The University of Iowa\n"
     actions: []
     type: section_content
   - title: Community Outreach
