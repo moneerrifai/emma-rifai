@@ -25,40 +25,40 @@ sections:
 
 
       *   “Digital Waistlands: Pro-Ana Communities, Religion, and Embodiment.”
-      Journal of Religion, Media, and Digital Culture 9 (2020): 207-227.
+      *Journal of Religion, Media, and Digital Culture* 9 (2020): 207-227.
 
 
       *   “Weighty Matter(s): Religion, Secularism, and American Weight Loss
-      Culture.” Religion Compass 14:2 (February 2020): 1-10.
+      Culture.” *Religion Compass *14:2 (February 2020): 1-10.
 
 
       *   “Spreading the Religion of Thinness from California to Calcutta: A
       Critical Feminist Postcolonial Analysis” with Michelle Lelwica and Jenna
-      McNallie. Journal of Feminist Studies in Religion 24:1 (Spring
+      McNallie. *Journal of Feminist Studies in Religion *24:1 (Spring
       2009):20-41. (Published under Emma Hoglund.
 
 
       ##### Textbook Entries
 
 
-      *   “Evangelical Christianities in North America.” Bloomsbury Religion in
-      North America. London: Bloomsbury Academic, 2021.
+      *   “Evangelical Christianities in North America.” *Bloomsbury Religion in
+      North America*. London: Bloomsbury Academic, 2021.
 
 
-      *   “Women and Christianity.”Bloomsbury Religion in North America. London:
-      Bloomsbury Academic, 2021.
+      *   “Women and Christianity.” *Bloomsbury Religion in North America*.
+      London: Bloomsbury Academic, 2021.
 
 
       ##### Book Reviews
 
 
-      *   Review of The Story of Radio Mind: A Missionary’s Journey on
-      Indigenous Land, by Pamela E. Klassen. Material Religion 15:5 (July 2019):
-      644-645.
+      *   Review of *The Story of Radio Mind: A Missionary’s Journey on
+      Indigenous Land*, by Pamela E. Klassen. *Material Religion* 15:5 (July
+      2019): 644-645.
 
 
-      *   Review of Religious Affects:Animality, Evolution, and Power, by
-      Donovan O. Schaefer. Material Religion 12:4 (December 2016): 515-516.
+      *   Review of *Religious Affects:Animality, Evolution, and Power*, by
+      Donovan O. Schaefer. *Material Religion *12:4 (December 2016): 515-516.
     actions: []
     type: section_content
   - title: Presentations and lectures
