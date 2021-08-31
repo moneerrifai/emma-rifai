@@ -42,23 +42,23 @@ sections:
 
 
       *   “Evangelical Christianities in North America.” Bloomsbury Religion in
-      North America. (In press.)
+      North America. London: Bloomsbury Academic, 2021.
 
 
-      *   “Women and Christianity.”Bloomsbury Religion in North America. (In
-      press.)
+      *   “Women and Christianity.”Bloomsbury Religion in North America. London:
+      Bloomsbury Academic, 2021.
 
 
       ##### Book Reviews
 
 
       *   Review of The Story of Radio Mind: A Missionary’s Journey on
-      Indigenous Land, by Pamela E. Klassen. Material Religion15:5(July 2019):
+      Indigenous Land, by Pamela E. Klassen. Material Religion 15:5 (July 2019):
       644-645.
 
 
       *   Review of Religious Affects:Animality, Evolution, and Power, by
-      Donovan O. Schaefer.Material Religion12:4 (December 2016):515-516.
+      Donovan O. Schaefer. Material Religion 12:4 (December 2016): 515-516.
     actions: []
     type: section_content
   - title: Presentations and lectures
