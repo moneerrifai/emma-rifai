@@ -77,12 +77,12 @@ sections:
       Religion, Denver, Colorado
 
 
-      *   2018: “Networked Anorexia:Pro-Ana Communities, Network Logic, and the
+      *   2018: “Networked Anorexia: Pro-Ana Communities, Network Logic, and the
       Internet,” Conference of the International Society for Media, Religion,
       and Culture, University of Colorado Boulder, Boulder, Colorado
 
 
-      *   2018: “Pro-Ana:An Internet-Mediated ‘New Religious Movement’?”Craft
+      *   2018: “Pro-Ana:An Internet-Mediated ‘New Religious Movement’?” Craft
       Critique Culture Interdisciplinary Graduate Student Conference, The
       University of Iowa, Iowa City, Iowa
 
@@ -92,19 +92,19 @@ sections:
       Iowa, Iowa City, Iowa
 
 
-      *   2016: “Fashioning Identities:New Relationships with Fashion and
+      *   2016: “Fashioning Identities: New Relationships with Fashion and
       Modesty in Turkey,” Doing the Body in the 21st Century Conference,
       University of Pittsburgh, Pittsburgh, Pennsylvania
 
 
       *   2008: “The Body’s Iron Cage and Its Relationship to the Protestant
       Ethic,” Annual Upper Midwest Meeting of the American Academy of Religion,
-      St. Paul, Minnesota 
+      St. Paul, Minnesota
 
 
-      *   2007: “From California to Calcutta:Spreading the White-Western
+      *   2007: “From California to Calcutta: Spreading the White-Western
       Devotion to Female Thinness—A Feminist Post-Colonial Analysis,” Annual
-      Meeting of the American Academy of Religion, San Diego, California 
+      Meeting of the American Academy of Religion, San Diego, California
 
 
       ##### Colloquia
@@ -118,18 +118,18 @@ sections:
 
 
       *   2019: “Digital Waistlands: Pro-Ana Communities, Religion, and
-      Embodiment,” inFood, Body, and Belief: A Global Perspective(RELS 2674),The
-      University of Iowa, Iowa City, Iowa
+      Embodiment,” in Food, Body, and Belief: A Global Perspective(RELS
+      2674),The University of Iowa, Iowa City, Iowa
 
 
-      *   2014: “Spreading the Religion of Thinness from California to
-      Calcutta:A Critical Feminist Postcolonial Analysis,”in Women’s Religious
-      History(REL 374),Concordia College, Moorhead, Minnesota
+      *   2014: “Spreading the Religion of Thinness from California to Calcutta:
+      A Critical Feminist Postcolonial Analysis,”in Women’s Religious History
+      (REL 374), Concordia College, Moorhead, Minnesota
 
 
-      *   2014: “Fashioning Identities:New Relationships with Fashion and
-      Modesty inTurkey,”in Social Theory(SOC302),Minnesota State
-      UniversityMoorhead, Moorhead, Minnesota
+      *   2014: “Fashioning Identities: New Relationships with Fashion and
+      Modesty in Turkey,” in Social Theory (SOC302), Minnesota State University
+      Moorhead, Moorhead, Minnesota
     actions: []
     type: section_content
   - title: Research Statement
