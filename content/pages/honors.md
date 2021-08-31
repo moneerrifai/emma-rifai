@@ -21,7 +21,7 @@ layout: page
 
 <!---->
 
-*   2010-2011: Foreign Language and Area Studies (Flas) Fellowship, University of Washington
+*   2010-2011: Foreign Language and Area Studies (FLAS) Fellowship, University of Washington
 
 *   2009-2010: Schwartz Fellowship, University of Washington
 
