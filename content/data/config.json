@@ -18,8 +18,8 @@
                 "icon_class": ""
             },
             {
-                "label": "Experience",
-                "url": "/experience/",
+                "label": "Education",
+                "url": "/education/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -27,8 +27,8 @@
                 "type": "action"
             },
             {
-                "label": "Education",
-                "url": "/education/",
+                "label": "Experience",
+                "url": "/experience/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
