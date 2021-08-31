@@ -7,15 +7,15 @@ layout: page
 ---
 *   2021: Barbara W. and Rex E. Montgomery Award, The University of Iowa
 
-*   2019: President and Mrs. Eugene Gilmore Scholarship, the University of Iowa
+*   2019: President and Mrs. Eugene Gilmore Scholarship, The University of Iowa
 
-*   2019: College of Liberal Arts and Sciences Dissertation Writing Fellowship, the University of Iowa
+*   2019: College of Liberal Arts and Sciences Dissertation Writing Fellowship, The University of Iowa
 
-*   2019: Graduate College Post-Comprehensive Research Fellowship, the University of Iowa
+*   2019: Graduate College Post-Comprehensive Research Fellowship, The University of Iowa
 
-*   2018: Rev. Louis Penningroth Scholarship, the University of Iowa
+*   2018: Rev. Louis Penningroth Scholarship, The University of Iowa
 
-*   2017: Alice Marguerite Blough Award, the University of Iowa
+*   2017: Alice Marguerite Blough Award, The University of Iowa
 
 *   2016, 2018: Graduate Student Senate Travel Grant, The University of Iowa
 
