@@ -107,7 +107,76 @@ sections:
   - title: University Teaching Experience
     section_id: universityteachingexperience
     image_alt: lorem-ipsum
-    content: "##### Virginia Polytechnic Institute and State University, Instructor\n\n*   World Religions (RLCL: 1014), Fall 2021\r\n\n*   Religion in American Life (RLCL: 2124), Fall 2021\n\n##### The University of Iowa, Instructor\n\n*   Harry Potter: Mystery and Magic of Life (RELS:1997), Fall 2020\n\n*   Women and Religion in America Today (RELS: 2986), Spring 2020\n\n*   Digital Media and Religion (RELS: 2930/COMM:2079), Spring 2018\n\n##### The University of Iowa, Teaching Assistant\n\n<!---->\n\n*   Modern Religion and Culture (RELS:1250/HIST:1050), Spring 2017, Spring 2021\n\n*   Medieval Religion and Culture (RELS:1225/HIST:1025), Fall 2018\n\n*   Harry Potter: Mystery & Magic of Life (RELS:1997), Fall 2017\n\n*   Digital Media and Religion (RELS:2930/COMM:2079), Spring 2017\n\n*   Religion in America Today (RELS:1702), Fall 2015, Fall 2016\n\n*   Religion and Sport in America (RELS:2877), Spring 2015, Spring 2016\n\n##### The University of Iowa, Teaching Practicum Participant\n\n*   Magic Machines:Technology and Social Change (COMM:4153), Fall 2015\n\n*   Women and Power in U.S. History Through the Civil War (GWSS:3280/HIST:3280), Fall 2016\n\n##### Concordia College, Teaching Assistant\n\n*   Introduction to Religion (REL 100), Fall 2013\n\n*   Catholicism (REL 328), Spring 2013\n\n*   Religion and the Body (REL 382), Spring 2013\n\n*   Women’s Religious History (REL 374), Fall 2012\n"
+    content: >
+      ##### Virginia Polytechnic Institute and State University, Instructor
+
+
+      *   Religion in American Life (RLCL: 2124), Fall 2021
+
+
+      *   World Religions (RLCL: 1014), Fall 2021
+
+
+      ##### The University of Iowa, Instructor
+
+
+      *   Harry Potter: Mystery and Magic of Life (RELS:1997), Fall 2020
+
+
+      *   Women and Religion in America Today (RELS: 2986), Spring 2020
+
+
+      *   Digital Media and Religion (RELS: 2930/COMM:2079), Spring 2018
+
+
+      ##### The University of Iowa, Teaching Assistant
+
+
+      <!---->
+
+
+      *   Modern Religion and Culture (RELS:1250/HIST:1050), Spring 2017, Spring
+      2021
+
+
+      *   Medieval Religion and Culture (RELS:1225/HIST:1025), Fall 2018
+
+
+      *   Harry Potter: Mystery & Magic of Life (RELS:1997), Fall 2017
+
+
+      *   Digital Media and Religion (RELS:2930/COMM:2079), Spring 2017
+
+
+      *   Religion in America Today (RELS:1702), Fall 2015, Fall 2016
+
+
+      *   Religion and Sport in America (RELS:2877), Spring 2015, Spring 2016
+
+
+      ##### The University of Iowa, Teaching Practicum Participant
+
+
+      *   Magic Machines:Technology and Social Change (COMM:4153), Fall 2015
+
+
+      *   Women and Power in U.S. History Through the Civil War
+      (GWSS:3280/HIST:3280), Fall 2016
+
+
+      ##### Concordia College, Teaching Assistant
+
+
+      *   Introduction to Religion (REL 100), Fall 2013
+
+
+      *   Catholicism (REL 328), Spring 2013
+
+
+      *   Religion and the Body (REL 382), Spring 2013
+
+
+      *   Women’s Religious History (REL 374), Fall 2012
     actions: []
     type: section_content
   - title: Teaching Evaluations
