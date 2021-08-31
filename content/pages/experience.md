@@ -4,7 +4,6 @@ hide_title: false
 excerpt: lorem-ipsum
 sections:
   - title: 2021 - Present
-    image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
