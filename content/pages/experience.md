@@ -12,8 +12,7 @@ sections:
       Instructor
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
