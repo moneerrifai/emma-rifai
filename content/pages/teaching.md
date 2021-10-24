@@ -183,6 +183,9 @@ sections:
     section_id: teachingevaluations
     image_alt: lorem-ipsum
     content: >
+      Teaching Evaluation by Dr. Matthew Gabriele
+
+
       [Teaching Evaluation by Dr. Leslie
       Schwalm](https://s3.amazonaws.com/www.emmarifai.com/evals/leslie_schwalm_eval.pdf)
 
