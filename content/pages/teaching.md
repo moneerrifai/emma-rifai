@@ -70,7 +70,7 @@ sections:
 
       I like to have semesters culminate in a series of peer-led mini lessons
       that students are responsible for crafting and executing with their
-      classmates.  Each lesson incorporates primary and secondary source
+      classmates. Each lesson incorporates primary and secondary source
       materials, a lecture or activity, and a facilitated group discussion. In
       one iteration of my “Women and Religion in America Today” course, there
       was a lesson on yoga and cultural appropriation in the United States that
@@ -87,13 +87,16 @@ sections:
       received the Rev. Louis P. Penningroth Award for excellence in teaching
       and mentoring from the Department of Religious Studies in 2018. My
       effectiveness in the classroom is also attested to by my course
-      evaluations. Statistically, I have been rated among the highest performing
-      instructors both in my department and in the College of Liberal Arts
-      Sciences more broadly. One student from my “Digital Media and Religion”
-      course commented: “This has been my favorite class so far! Each class we
-      are presented with new ideas and ways in which to view the world. I have
-      thoroughly enjoyed listening to both the instructor and my classmates’
-      ideas on the topics covered in class.”
+      evaluations. At both The University of Iowa and at Virginia Tech, my
+      courses have been consistently positively evaluated by students. One
+      student, enrolled in my “Religion in American Life” course at Virginia
+      Tech, reported: “I loved this class. The topics were interesting and it
+      was one of my favorite classes. I enjoyed the structure of the
+      assignments.” Another student from my “Digital Media and Religion” course
+      at The University of Iowa commented: “This has been my favorite class so
+      far! Each class we are presented with new ideas and ways in which to view
+      the world. I have thoroughly enjoyed listening to both the instructor and
+      my classmates’ ideas on the topics covered in class.”
 
 
       In all of my roles as an educator—as a teacher, a mentor, an advocate, and
@@ -183,7 +186,8 @@ sections:
     section_id: teachingevaluations
     image_alt: lorem-ipsum
     content: >
-      [Teaching Evaluation by Dr. Matthew Gabriele](https://s3.amazonaws.com/www.emmarifai.com/evals/matthew_gabriele_eval.pdf)
+      [Teaching Evaluation by Dr. Matthew
+      Gabriele](https://s3.amazonaws.com/www.emmarifai.com/evals/matthew_gabriele_eval.pdf)
 
 
       [Teaching Evaluation by Dr. Leslie
