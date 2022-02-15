@@ -114,10 +114,13 @@ sections:
       ##### Virginia Polytechnic Institute and State University, Instructor
 
 
+      *   Religion and the Modern World (RLCL: 1034), Spring 2022
+
+
+      *   World Religions (RLCL: 1014), Fall 2021, Spring 2022
+
+
       *   Religion in American Life (RLCL: 2124), Fall 2021
-
-
-      *   World Religions (RLCL: 1014), Fall 2021
 
 
       ##### The University of Iowa, Instructor
