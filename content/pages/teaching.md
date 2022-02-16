@@ -263,7 +263,7 @@ sections:
 
 
       [Religion and the Modern
-      World](https://s3.amazonaws.com/www.emmarifai.com/resources/religion_in_the_modern_world.pdf)
+      World](https://s3.amazonaws.com/www.emmarifai.com/resources/religion_and_the_modern_world.pdf)
 
 
       [
