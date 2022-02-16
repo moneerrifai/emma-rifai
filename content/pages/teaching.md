@@ -262,10 +262,8 @@ sections:
       Studies](https://s3.amazonaws.com/www.emmarifai.com/resources/methods_and_theories.pdf)
 
 
-      [Religion in the Modern
+      [Religion and the Modern
       World](https://s3.amazonaws.com/www.emmarifai.com/resources/religion_in_the_modern_world.pdf)
-
-
 
 
       [
