@@ -206,7 +206,7 @@ sections:
 
 
       [Evidence of Teaching
-      Effectiveness](https://s3.amazonaws.com/www.emmarifai.com/evals/Rifai_Evidence+of+Teaching+Effectiveness.pdf)
+      Effectiveness](https://s3.amazonaws.com/www.emmarifai.com/resources/evidence_of_teaching_effectiveness.pdf)
 
 
       [Workshop Evaluation by Sarah
