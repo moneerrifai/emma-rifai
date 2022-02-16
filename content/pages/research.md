@@ -30,6 +30,11 @@ sections:
       ##### Conference Presentations
 
 
+      *   2021: "Whose Techno-Utopia? Biohacking, Silicon Valley, and Protestant
+      Privilege," Annual Meeting of the American Academy of Religion, San
+      Antonio, Texas
+
+
       *   2020: “DNA Dieting: Genetic Testing, Nutrigenetics, and American
       Secularism,” Annual Meeting of the American Academy of Religion, Virtual
 
@@ -71,6 +76,10 @@ sections:
 
       ##### Colloquia
 
+
+      *   2021: "Body Hacks: Biohacking, Silicon Valley, and Protestant
+      Privilege," Virginia Polytechnic Institute and State University,
+      Blacksburg, Virginia
 
       *   2019: “Biohacking the Body: Fasting, Silicon Valley, and Protestant
       Privilege,” The University of Iowa, Iowa City, Iowa
