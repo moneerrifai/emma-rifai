@@ -258,6 +258,16 @@ sections:
       Today](https://s3.amazonaws.com/www.emmarifai.com/resources/evangelical_christianities_in_america_today.pdf)
 
 
+      [Methods and Theories in Religious
+      Studies](https://s3.amazonaws.com/www.emmarifai.com/resources/methods_and_theories.pdf)
+
+
+      [Religion in the Modern
+      World](https://s3.amazonaws.com/www.emmarifai.com/resources/religion_in_the_modern_world.pdf)
+
+
+
+
       [
 
       ](https://s3.amazonaws.com/www.emmarifai.com/resources/evangelical_christianities_in_america_today.pdf)
