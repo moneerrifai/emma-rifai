@@ -81,6 +81,9 @@ sections:
       Privilege," Virginia Polytechnic Institute and State University,
       Blacksburg, Virginia
 
+
+
+
       *   2019: “Biohacking the Body: Fasting, Silicon Valley, and Protestant
       Privilege,” The University of Iowa, Iowa City, Iowa
 
