@@ -32,6 +32,10 @@ sections:
     section_id: conferencesorganized
     image_alt: lorem-ipsum
     content: >
+      *   2021 Religion and Media Workshop, Annual Meeting of the American
+      Academy of Religion, San Antonio, Texas
+
+
       *   2020 Religion and Media Workshop, Annual Meeting of the American
       Academy of Religion, Virtual
 
