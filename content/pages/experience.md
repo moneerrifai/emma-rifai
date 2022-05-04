@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - actions: []
     type: section_content
-  - title: 2021 - Present
+  - title: 2021 - 2022
     content: |
       ###### Virginia Polytechnic Institute and State University
 
