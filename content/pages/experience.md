@@ -5,13 +5,13 @@ excerpt: lorem-ipsum
 sections:
   - actions: []
     type: section_content
-  - title: 2021 - 2022
+  - title: 2023 - Present
     content: |
-      ###### Virginia Polytechnic Institute and State University
+      ###### St. Catherine University
 
-      Department of Religion and Culture
+      Department of Core Curriculum
 
-      Instructor
+      Lecturer
     actions: []
     type: section_content
   - title: 2021 - 2022
