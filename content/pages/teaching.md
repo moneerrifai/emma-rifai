@@ -48,6 +48,12 @@ sections:
     section_id: universityteachingexperience
     image_alt: lorem-ipsum
     content: >
+      ##### St. Catherine University, Lecturer 
+
+
+      *   The Reflective Woman (CORE-1000W), Fall 2023
+   
+        
       ##### Virginia Polytechnic Institute and State University, Instructor
 
 
