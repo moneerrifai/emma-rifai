@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - actions: []
     type: section_content
-  - title: 2023 - Present
+  - title: 2023
     content: |
       ###### St. Catherine University
 
